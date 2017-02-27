@@ -1,1 +1,1 @@
-# thesaurus_juritique
+# thesaurus_juridique
