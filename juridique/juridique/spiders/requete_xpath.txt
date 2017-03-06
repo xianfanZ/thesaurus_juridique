@@ -1,0 +1,1 @@
+response.xpath('//div[@class="CategoryTreeSection"]/div[@class="CategoryTreeChildren" and preceding-sibling::div[1]/a[text()="Branche du droit"]]/div/div/a/text()').extract()

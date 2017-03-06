@@ -4,7 +4,7 @@ from scrapy.selector import Selector
 
 class FirstSpider(scrapy.Spider): # créer une classe qui hérite scrapy.spiders.Spider
     # initialisation des champs
-    name = "juritique" # obligatoire
+    name = "juridique" # obligatoire
     allowed_domains = ["wikipedia.org"] # optionnel
     start_urls = ["https://fr.wikipedia.org/wiki/Portail:Droit_fran%C3%A7ais/Arborescence#Liste_des_toutes_les_cat.C3.A9gories_li.C3.A9es"] # les premiers pages à télécharger
 
@@ -24,9 +24,9 @@ class FirstSpider(scrapy.Spider): # créer une classe qui hérite scrapy.spiders
             "title_extract_css" : sel.css('title::text').extract_first(),
             "title_extract_xpath" : sel.xpath('//title/text()').extract_first()
         }
-        if sel.xpath('//div[@class="CategoryTreeSection"]'):
-            if sel.xpath("//div/text()"):
-                print(sel.xpath("//div/text()").extract())
+        if sel.xpath('//a[@class="CategoryTreeLabel"]'):
+            if sel.xpath("//a/text()"):
+                print(sel.xpath("//a/text()").extract())
             else:
                 print("No data")
 
