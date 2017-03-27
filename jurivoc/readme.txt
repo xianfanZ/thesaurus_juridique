@@ -49,7 +49,7 @@
      Dans les dictionnaires:
 
 	- GER    Relation de traduction vers l'allemand
-        - FRE    Relation de traduction vers le français
+  - FRE    Relation de traduction vers le français
 	- ITA    Relation de traduction vers l'italien
 
      Dans les thésauri:
