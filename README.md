@@ -1,7 +1,10 @@
 # thesaurus_juridique
 
-Les étudiants rendront leur travail sous la forme d'un rapport et feront une présentation orale (10mn par groupe + 5 min de questions). Ils auront déjà commencé leur stage (en accord avec les étudiants, nous avons repoussé la date pour remettre leur travail au 14 avril) et nous allons donc prévoir un horaire compatible.
-Seriez-vous disponible à 18h  sur l'une de ces dates en avril : 18, 19, 24, 25 ou 26 ?
+## TODO
+- continuer les requetes Sparql pour recuperer des niveaux plus bas de la hierarchie (au moins 3)
+- meme si c'est incomplet, mettre les resultats obtenus avec Scrappy et Beautiful Soup et les scripts le plus avancés
+- comparer l'arborescence obtenue à partir de Dbpedia avec Jurivoc. Et eventuellement modifier le thesaurus?
+- comparer avec les resultats de l'équipe des termes clés?
 
 ## Équipe
 
@@ -13,11 +16,12 @@ Normalisation du thesaurus Wolters Kluwer
 
 ## Ressources 
 
-Wikipedia/DBpedia
+- Wikipedia/DBpedia
+- Jurivoc (http://www.bger.ch/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home.htm)
 
 ## Méthode 
 
-1) Extraction des termes et de la hierarchie de la branche du droit francais dede Wikipedia (https://fr.wikipedia.org/wiki/Portail:Droit_fran%C3%A7ais/Arborescence#Liste_des_toutes_les_cat.C3.A9gories_li.C3.A9es) 
+1) Extraction des termes et de la hierarchie de la branche du droit francais de Wikipedia (https://fr.wikipedia.org/wiki/Portail:Droit_fran%C3%A7ais/Arborescence#Liste_des_toutes_les_cat.C3.A9gories_li.C3.A9es) 
 1.1) programme de crawling avec Scrappy (juridique/spiders/test.py) pour récupérer l'arborescence des termes juridiques << problème: requêtes xpath trop longues 
 1.2) idem avec Beautiful Soup (html2xml.py) << problème : balises filles avec même nom que les balises mères
 1.3) DBpedia SPARQL Endpoint (requête) >> approche choisie
@@ -30,3 +34,6 @@ Wikipedia/DBpedia
 - rapport de 5 pages
 - code réalisé
 - résultats obtenus (qualitativement)
+
+Les étudiants rendront leur travail sous la forme d'un rapport et feront une présentation orale (10mn par groupe + 5 min de questions). Ils auront déjà commencé leur stage (en accord avec les étudiants, nous avons repoussé la date pour remettre leur travail au 14 avril) et nous allons donc prévoir un horaire compatible.
+Seriez-vous disponible à 18h  sur l'une de ces dates en avril : 18, 19, 24, 25 ou 26 ?
