@@ -18,7 +18,7 @@ Wikipedia/DBpedia
 ## Méthode 
 
 1) Extraction des termes et de la hierarchie de la branche du droit francais dede Wikipedia (https://fr.wikipedia.org/wiki/Portail:Droit_fran%C3%A7ais/Arborescence#Liste_des_toutes_les_cat.C3.A9gories_li.C3.A9es) 
-1.1) programme de crawling avec Scrappy (nomdu spider.py) pour récupérer l'arborescence des termes juridiques << problème : requêtes xpath trop longues 
+1.1) programme de crawling avec Scrappy (juridique/spiders/test.py) pour récupérer l'arborescence des termes juridiques << problème: requêtes xpath trop longues 
 1.2) idem avec Beautiful Soup (html2xml.py) << problème : balises filles avec même nom que les balises mères
 1.3) DBpedia SPARQL Endpoint (requête) >> approche choisie
 2) Complémentation de cette arborescence avec d'autres ressources (Jurivoc) 
