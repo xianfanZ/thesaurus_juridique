@@ -1,0 +1,36 @@
+(())
+(())
+1	La	_	DET	DET	_	2	NULL	_	_
+2	date	_	NC	NC	_	9	NULL	_	_
+3	à	_	P	P	_	7	NULL	_	_
+4	laquelle	_	PROREL	PROREL	_	3	NULL	_	_
+5	l'	_	DET	DET	_	6	NULL	_	_
+6	arrêt	_	NC	NC	_	7	NULL	_	_
+7	serait	_	V	V	_	2	NULL	_	_
+8	rendu	_	VPP	VPP	_	7	NULL	_	_
+9	a	_	V	V	_	0	root	_	_
+10	été	_	VPP	VPP	_	9	NULL	_	_
+11	communiquée	_	VPP	VPP	_	9	NULL	_	_
+12	.	_	PUNC	PUNC	_	9	NULL	_	_
+
+1	Avant	_	P	P	_	9	NULL	_	_
+2	l'	_	DET	DET	_	3	NULL	_	_
+3	ouverture	_	NC	NC	_	1	NULL	_	_
+4	des	_	P	P	_	3	NULL	_	_
+5	débats	_	NC	NC	_	4	NULL	_	_
+6	,	_	PUNC	PUNC	_	9	NULL	_	_
+7	les	_	DET	DET	_	8	NULL	_	_
+8	parties	_	NC	NC	_	9	NULL	_	_
+9	ont	_	V	V	_	0	root	_	_
+10	été	_	VPP	VPP	_	9	NULL	_	_
+11	informées	_	VPP	VPP	_	9	NULL	_	_
+12	des	_	DET	DET	_	13	NULL	_	_
+13	noms	_	NC	NC	_	11	NULL	_	_
+15	magistrats	_	NC	NC	_	14	NULL	_	_
+16	composant	_	VPR	VPR	_	9	NULL	_	_
+17	la	_	DET	DET	_	18	NULL	_	_
+18	cour	_	NC	NC	_	16	NULL	_	_
+19	.	_	PUNC	PUNC	_	9	NULL	_	_
+
+(())
+(())

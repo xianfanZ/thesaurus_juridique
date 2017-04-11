@@ -1,0 +1,131 @@
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+1	La	_	DET	DET	_	2	NULL	_	_
+2	société	_	NC	NC	_	7	NULL	_	_
+3	SUD	_	NPP	NPP	_	2	NULL	_	_
+4	EST	_	DET	DET	_	6	NULL	_	_
+5	MOTORS	_	DET	DET	_	6	NULL	_	_
+6	SA	_	DET	DET	_	2	NULL	_	_
+7	a	_	V	V	_	0	root	_	_
+8	interjeté	_	VPP	VPP	_	7	NULL	_	_
+9	appel	_	NC	NC	_	7	NULL	_	_
+10	de	_	P	P	_	9	NULL	_	_
+11	ce	_	DET	DET	_	12	NULL	_	_
+12	jugement	_	NC	NC	_	10	NULL	_	_
+13	.	_	PUNC	PUNC	_	7	NULL	_	_
+
+1	En	_	P	P	_	6	NULL	_	_
+2	premier	_	ADJ	ADJ	_	1	NULL	_	_
+3	lieu	_	N	N	_	1	NULL	_	_
+4	,	_	PUNC	PUNC	_	6	NULL	_	_
+5	elle	_	CLS	CLS	_	6	NULL	_	_
+6	conteste	_	V	V	_	0	root	_	_
+7	l'	_	DET	DET	_	8	NULL	_	_
+8	argumentation	_	NC	NC	_	6	NULL	_	_
+9	de	_	P	P	_	8	NULL	_	_
+10	la	_	DET	DET	_	11	NULL	_	_
+11	partie	_	NC	NC	_	9	NULL	_	_
+12	adverse	_	ADJ	ADJ	_	11	NULL	_	_
+13	suivant	_	ADJ	ADJ	_	11	NULL	_	_
+14	laquelle	_	PROREL	PROREL	_	16	NULL	_	_
+15	elle	_	CLS	CLS	_	16	NULL	_	_
+16	aurait	_	V	V	_	8	NULL	_	_
+17	manifesté	_	VPP	VPP	_	16	NULL	_	_
+18	du	_	P	P	_	16	NULL	_	_
+19	désintérêt	_	NC	NC	_	18	NULL	_	_
+20	pour	_	P	P	_	16	NULL	_	_
+21	la	_	DET	DET	_	22	NULL	_	_
+22	représentation	_	NC	NC	_	20	NULL	_	_
+23	de	_	P	P	_	22	NULL	_	_
+24	la	_	DET	DET	_	25	NULL	_	_
+25	marque	_	NC	NC	_	23	NULL	_	_
+26	VOLVO	_	NPP	NPP	_	25	NULL	_	_
+27	.	_	PUNC	PUNC	_	6	NULL	_	_
+
+1	A	_	P	P	_	6	NULL	_	_
+2	cet	_	DET	DET	_	1	NULL	_	_
+3	égard	_	N	N	_	1	NULL	_	_
+4	,	_	PUNC	PUNC	_	6	NULL	_	_
+5	elle	_	CLS	CLS	_	6	NULL	_	_
+6	explique	_	V	V	_	0	root	_	_
+7	que	_	CS	CS	_	11	NULL	_	_
+8	le	_	DET	DET	_	9	NULL	_	_
+9	Groupe	_	NC	NC	_	11	NULL	_	_
+10	X.	_	NPP	NPP	_	9	NULL	_	_
+11	.	_	V	V	_	6	NULL	_	_
+
+(())
+1	dans	_	P	P	_	19	NULL	_	_
+2	la	_	DET	DET	_	3	NULL	_	_
+3	représentation	_	NC	NC	_	1	NULL	_	_
+4	d'	_	P	P	_	3	NULL	_	_
+5	autres	_	ADJ	ADJ	_	6	NULL	_	_
+6	marques	_	NC	NC	_	4	NULL	_	_
+7	,	_	PUNC	PUNC	_	6	NULL	_	_
+8	en	_	P	P	_	6	NULL	_	_
+9	particulier	_	ADJ	ADJ	_	8	NULL	_	_
+10	LADA	_	NPP	NPP	_	6	NULL	_	_
+12	BMW	_	NC	NC	_	6	NULL	_	_
+14	V	_	ADJ	ADJ	_	15	NULL	_	_
+15	W	_	NC	NC	_	6	NULL	_	_
+17	AUDI	_	NPP	NPP	_	6	NULL	_	_
+18	,	_	PUNC	PUNC	_	19	NULL	_	_
+19	SEAT	_	V	V	_	0	root	_	_
+20	et	_	CC	CC	_	19	NULL	_	_
+21	SUZUKI	_	NPP	NPP	_	20	NULL	_	_
+22	.	_	PUNC	PUNC	_	19	NULL	_	_
+
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+(())
+1	de	_	P	P	_	7	NULL	_	_
+2	toutes	_	ADJ	ADJ	_	4	NULL	_	_
+3	ses	_	DET	DET	_	4	NULL	_	_
+4	demandes	_	NC	NC	_	1	NULL	_	_
+5	,	_	PUNC	PUNC	_	7	NULL	_	_
+6	-	_	PUNC	PUNC	_	7	NULL	_	_
+7	reçoit	_	V	V	_	0	root	_	_
+8	Monsieur	_	ET	ET	_	10	NULL	_	_
+9	Y.	_	ET	ET	_	10	NULL	_	_
+10	.	_	ET	ET	_	7	NULL	_	_
+

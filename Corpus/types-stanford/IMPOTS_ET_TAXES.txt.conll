@@ -1,0 +1,209 @@
+(())
+1	Y.	_	NPP	NPP	_	0	root	_	_
+3	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+(())
+(())
+1	et	_	CC	CC	_	5	NULL	_	_
+2	Mme	_	NPP	NPP	_	1	NULL	_	_
+3	A.	_	V	V	_	1	NULL	_	_
+4	.	_	ADJ	ADJ	_	1	NULL	_	_
+5	.	_	PUNC	PUNC	_	0	root	_	_
+
+1	,	_	NPP	NPP	_	16	NULL	_	_
+2	GREFFIER	_	NPP	NPP	_	1	NULL	_	_
+3	:	_	PUNC	PUNC	_	16	NULL	_	_
+4	Madame	_	NPP	NPP	_	16	NULL	_	_
+5	B.	_	NPP	NPP	_	4	NULL	_	_
+6	...	_	PUNC	PUNC	_	16	NULL	_	_
+7	MINISTÈRE	_	NPP	NPP	_	16	NULL	_	_
+8	PUBLIC	_	NPP	NPP	_	7	NULL	_	_
+10	représenté	_	VPP	VPP	_	16	NULL	_	_
+11	aux	_	P	P	_	10	NULL	_	_
+12	débats	_	NC	NC	_	11	NULL	_	_
+13	par	_	P	P	_	10	NULL	_	_
+14	Monsieur	_	NPP	NPP	_	13	NULL	_	_
+15	C.	_	NPP	NPP	_	14	NULL	_	_
+16	.	_	NPP	NPP	_	0	root	_	_
+17	.	_	PUNC	PUNC	_	16	NULL	_	_
+
+1	,	_	PUNC	PUNC	_	13	NULL	_	_
+2	Avocat	_	NPP	NPP	_	1	NULL	_	_
+3	Général	_	NC	NC	_	1	NULL	_	_
+4	et	_	CC	CC	_	13	NULL	_	_
+5	au	_	P	P	_	4	NULL	_	_
+6	prononcé	_	N	N	_	9	NULL	_	_
+7	de	_	P	P	_	9	NULL	_	_
+8	l'	_	DET	DET	_	9	NULL	_	_
+9	arrêt	_	N	N	_	5	NULL	_	_
+10	par	_	P	P	_	4	NULL	_	_
+11	Monsieur	_	NPP	NPP	_	10	NULL	_	_
+12	D.	_	NPP	NPP	_	11	NULL	_	_
+13	.	_	V	V	_	0	root	_	_
+14	.	_	PUNC	PUNC	_	13	NULL	_	_
+
+1	,	_	PUNC	PUNC	_	2	NULL	_	_
+2	Avocat	_	V	V	_	4	NULL	_	_
+3	Général	_	NC	NC	_	2	NULL	_	_
+4	.	_	PUNC	PUNC	_	0	root	_	_
+
+1	RAPPEL	_	NC	NC	_	9	NULL	_	_
+2	DE	_	P	P	_	1	NULL	_	_
+3	LA	_	DET	DET	_	4	NULL	_	_
+4	PROCÉDURE	_	NPP	NPP	_	2	NULL	_	_
+5	:	_	PUNC	PUNC	_	9	NULL	_	_
+6	LA	_	DET	DET	_	7	NULL	_	_
+7	PREVENTION	_	NPP	NPP	_	9	NULL	_	_
+9	X.	_	NPP	NPP	_	0	root	_	_
+11	.	_	PUNC	PUNC	_	9	NULL	_	_
+
+1	Y.	_	NPP	NPP	_	0	root	_	_
+3	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+(())
+(())
+1	LE	_	DET	DET	_	2	NULL	_	_
+2	JUGEMENT	_	NPP	NPP	_	11	NULL	_	_
+3	:	_	PUNC	PUNC	_	11	NULL	_	_
+4	Le	_	DET	DET	_	5	NULL	_	_
+5	Tribunal	_	NPP	NPP	_	11	NULL	_	_
+6	,	_	PUNC	PUNC	_	11	NULL	_	_
+7	par	_	P	P	_	11	NULL	_	_
+8	jugement	_	NC	NC	_	7	NULL	_	_
+9	contradictoire	_	ADJ	ADJ	_	8	NULL	_	_
+11	a	_	V	V	_	0	root	_	_
+13	constaté	_	VPP	VPP	_	11	NULL	_	_
+14	l'	_	DET	DET	_	15	NULL	_	_
+15	acquisition	_	NC	NC	_	13	NULL	_	_
+16	de	_	P	P	_	15	NULL	_	_
+17	la	_	DET	DET	_	18	NULL	_	_
+18	prescription	_	NC	NC	_	16	NULL	_	_
+19	à	_	P	P	_	18	NULL	_	_
+20	l'	_	DET	DET	_	19	NULL	_	_
+21	encontre	_	N	N	_	19	NULL	_	_
+22	de	_	P	P	_	19	NULL	_	_
+23	M.	_	NC	NC	_	19	NULL	_	_
+24	X.	_	NPP	NPP	_	23	NULL	_	_
+25	.	_	NPP	NPP	_	23	NULL	_	_
+26	.	_	PUNC	PUNC	_	11	NULL	_	_
+
+1	et	_	CC	CC	_	25	NULL	_	_
+2	de	_	P	P	_	1	NULL	_	_
+3	la	_	DET	DET	_	2	NULL	_	_
+4	SA	_	N	N	_	3	NULL	_	_
+5	BRENNTAG	_	ADJ	ADJ	_	4	NULL	_	_
+6	,	_	PUNC	PUNC	_	1	NULL	_	_
+7	débouté	_	VPP	VPP	_	1	NULL	_	_
+8	l'	_	DET	DET	_	1	NULL	_	_
+9	Administration	_	N	N	_	11	NULL	_	_
+10	des	_	P	P	_	11	NULL	_	_
+11	Douanes	_	N	N	_	8	NULL	_	_
+12	de	_	P	P	_	8	NULL	_	_
+13	ses	_	DET	DET	_	14	NULL	_	_
+14	demandes	_	NC	NC	_	12	NULL	_	_
+15	,	_	PUNC	PUNC	_	14	NULL	_	_
+16	laissé	_	VPP	VPP	_	14	NULL	_	_
+17	les	_	DET	DET	_	18	NULL	_	_
+18	dépens	_	NC	NC	_	16	NULL	_	_
+19	à	_	P	P	_	18	NULL	_	_
+20	la	_	DET	DET	_	21	NULL	_	_
+21	charge	_	NC	NC	_	19	NULL	_	_
+22	du	_	P	P	_	21	NULL	_	_
+23	Trésor	_	NPP	NPP	_	22	NULL	_	_
+24	Public	_	NC	NC	_	23	NULL	_	_
+25	.	_	PUNC	PUNC	_	0	root	_	_
+
+1	LES	_	DET	DET	_	2	NULL	_	_
+2	APPELS	_	NPP	NPP	_	5	NULL	_	_
+3	:	_	PUNC	PUNC	_	5	NULL	_	_
+4	Appel	_	NPP	NPP	_	5	NULL	_	_
+5	a	_	V	V	_	0	root	_	_
+6	été	_	VPP	VPP	_	5	NULL	_	_
+7	interjeté	_	VPP	VPP	_	5	NULL	_	_
+8	par	_	P	P	_	5	NULL	_	_
+9	:	_	PUNC	PUNC	_	8	NULL	_	_
+10	M.	_	NC	NC	_	8	NULL	_	_
+11	Patrick	_	NPP	NPP	_	10	NULL	_	_
+12	E.	_	NPP	NPP	_	10	NULL	_	_
+13	.	_	NPP	NPP	_	8	NULL	_	_
+14	.	_	PUNC	PUNC	_	5	NULL	_	_
+
+(())
+1	Y.	_	NPP	NPP	_	0	root	_	_
+3	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+(())
+1	en	_	P	P	_	17	NULL	_	_
+2	son	_	DET	DET	_	3	NULL	_	_
+3	rapport	_	NC	NC	_	1	NULL	_	_
+4	;	_	PUNC	PUNC	_	17	NULL	_	_
+5	Me	_	NC	NC	_	17	NULL	_	_
+6	FAMCHON	_	NPP	NPP	_	5	NULL	_	_
+7	et	_	CC	CC	_	5	NULL	_	_
+8	Me	_	NC	NC	_	7	NULL	_	_
+9	CHARLEMAGNE	_	NPP	NPP	_	8	NULL	_	_
+10	,	_	PUNC	PUNC	_	17	NULL	_	_
+11	avocats	_	NC	NC	_	17	NULL	_	_
+14	leurs	_	DET	DET	_	15	NULL	_	_
+15	plaidoiries	_	NC	NC	_	13	NULL	_	_
+17	M.	_	NC	NC	_	0	root	_	_
+18	C.	_	NPP	NPP	_	17	NULL	_	_
+20	.	_	PUNC	PUNC	_	17	NULL	_	_
+
+1	,	_	PUNC	PUNC	_	17	NULL	_	_
+2	Avocat	_	DET	DET	_	3	NULL	_	_
+3	Général	_	NC	NC	_	17	NULL	_	_
+4	,	_	PUNC	PUNC	_	3	NULL	_	_
+5	en	_	P	P	_	3	NULL	_	_
+6	ses	_	DET	DET	_	7	NULL	_	_
+7	réquisitions	_	NC	NC	_	5	NULL	_	_
+8	;	_	PUNC	PUNC	_	7	NULL	_	_
+9	à	_	P	P	_	7	NULL	_	_
+10	nouveau	_	N	N	_	9	NULL	_	_
+11	Maître	_	NPP	NPP	_	7	NULL	_	_
+12	FAMCHON	_	NPP	NPP	_	11	NULL	_	_
+13	,	_	PUNC	PUNC	_	11	NULL	_	_
+14	avocat	_	NC	NC	_	13	NULL	_	_
+16	qui	_	PROREL	PROREL	_	17	NULL	_	_
+17	a	_	V	V	_	0	root	_	_
+18	eu	_	VPP	VPP	_	17	NULL	_	_
+19	la	_	DET	DET	_	20	NULL	_	_
+20	parole	_	NC	NC	_	17	NULL	_	_
+21	en	_	P	P	_	17	NULL	_	_
+22	dernier	_	ADJ	ADJ	_	21	NULL	_	_
+23	.	_	PUNC	PUNC	_	17	NULL	_	_
+
+1	Après	_	P	P	_	3	NULL	_	_
+2	en	_	CLO	CLO	_	3	NULL	_	_
+3	avoir	_	VINF	VINF	_	12	NULL	_	_
+4	délibéré	_	ADJ	ADJ	_	3	NULL	_	_
+5	conformément	_	ADV	ADV	_	6	NULL	_	_
+6	à	_	P	P	_	3	NULL	_	_
+7	la	_	DET	DET	_	8	NULL	_	_
+8	loi	_	NC	NC	_	6	NULL	_	_
+9	,	_	PUNC	PUNC	_	12	NULL	_	_
+10	la	_	DET	DET	_	11	NULL	_	_
+11	COUR	_	NC	NC	_	12	NULL	_	_
+12	a	_	V	V	_	0	root	_	_
+13	joint	_	VPP	VPP	_	12	NULL	_	_
+14	l'	_	DET	DET	_	15	NULL	_	_
+15	incident	_	NC	NC	_	12	NULL	_	_
+16	au	_	P	P	_	15	NULL	_	_
+17	fond	_	N	N	_	16	NULL	_	_
+18	.	_	PUNC	PUNC	_	12	NULL	_	_
+
+1	Après	_	P	P	_	5	NULL	_	_
+2	la	_	DET	DET	_	3	NULL	_	_
+3	suspension	_	NC	NC	_	1	NULL	_	_
+4	:	_	PUNC	PUNC	_	5	NULL	_	_
+5	Ont	_	V	V	_	0	root	_	_
+6	été	_	VPP	VPP	_	5	NULL	_	_
+7	entendus	_	NC	NC	_	5	NULL	_	_
+8	:	_	PUNC	PUNC	_	7	NULL	_	_
+9	Monsieur	_	NC	NC	_	7	NULL	_	_
+10	le	_	DET	DET	_	11	NULL	_	_
+11	Conseiller	_	N	N	_	9	NULL	_	_
+12	Z.	_	ET	ET	_	13	NULL	_	_
+13	.	_	ET	ET	_	9	NULL	_	_
+14	.	_	PUNC	PUNC	_	5	NULL	_	_
+

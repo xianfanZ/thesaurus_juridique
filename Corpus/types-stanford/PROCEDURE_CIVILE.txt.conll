@@ -1,0 +1,102 @@
+1	FAITS	_	NPP	NPP	_	19	NULL	_	_
+2	ET	_	CC	CC	_	1	NULL	_	_
+3	PROCEDURE	_	NPP	NPP	_	2	NULL	_	_
+4	Par	_	P	P	_	19	NULL	_	_
+5	ordonnance	_	NC	NC	_	4	NULL	_	_
+6	du	_	P	P	_	5	NULL	_	_
+7	15	_	ADJ	ADJ	_	8	NULL	_	_
+8	novembre	_	NC	NC	_	6	NULL	_	_
+9	1993	_	N	N	_	8	NULL	_	_
+10	,	_	PUNC	PUNC	_	19	NULL	_	_
+11	le	_	DET	DET	_	12	NULL	_	_
+12	président	_	NC	NC	_	19	NULL	_	_
+13	du	_	P	P	_	12	NULL	_	_
+14	tribunal	_	N	N	_	16	NULL	_	_
+15	d'	_	P	P	_	16	NULL	_	_
+16	instance	_	N	N	_	13	NULL	_	_
+17	de	_	P	P	_	16	NULL	_	_
+18	Versailles	_	NPP	NPP	_	17	NULL	_	_
+19	a	_	V	V	_	0	root	_	_
+20	enjoint	_	VPP	VPP	_	19	NULL	_	_
+21	à	_	P	P	_	19	NULL	_	_
+22	Madame	_	NC	NC	_	21	NULL	_	_
+23	X.	_	NPP	NPP	_	22	NULL	_	_
+24	.	_	NPP	NPP	_	22	NULL	_	_
+25	.	_	PUNC	PUNC	_	19	NULL	_	_
+
+(())
+1	Cette	_	DET	DET	_	2	NULL	_	_
+2	ordonnance	_	NC	NC	_	3	NULL	_	_
+3	a	_	V	V	_	0	root	_	_
+4	été	_	VPP	VPP	_	3	NULL	_	_
+5	signifiée	_	VPP	VPP	_	3	NULL	_	_
+6	en	_	P	P	_	3	NULL	_	_
+7	mairie	_	NC	NC	_	6	NULL	_	_
+8	le	_	DET	DET	_	10	NULL	_	_
+9	14	_	ADJ	ADJ	_	10	NULL	_	_
+10	décembre	_	NC	NC	_	3	NULL	_	_
+11	1993	_	N	N	_	10	NULL	_	_
+12	.	_	PUNC	PUNC	_	3	NULL	_	_
+
+1	Madame	_	NC	NC	_	0	root	_	_
+2	X.	_	NPP	NPP	_	1	NULL	_	_
+4	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+1	a	_	V	V	_	0	root	_	_
+2	formé	_	VPP	VPP	_	1	NULL	_	_
+3	opposition	_	NC	NC	_	1	NULL	_	_
+4	par	_	P	P	_	1	NULL	_	_
+5	lettre	_	NC	NC	_	4	NULL	_	_
+6	du	_	P	P	_	5	NULL	_	_
+7	15	_	ADJ	ADJ	_	8	NULL	_	_
+8	février	_	NC	NC	_	6	NULL	_	_
+9	1995	_	N	N	_	8	NULL	_	_
+10	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+1	Devant	_	P	P	_	7	NULL	_	_
+2	le	_	DET	DET	_	3	NULL	_	_
+3	tribunal	_	NC	NC	_	1	NULL	_	_
+4	,	_	PUNC	PUNC	_	7	NULL	_	_
+5	Madame	_	NPP	NPP	_	7	NULL	_	_
+6	X.	_	NPP	NPP	_	5	NULL	_	_
+7	.	_	V	V	_	0	root	_	_
+8	.	_	PUNC	PUNC	_	7	NULL	_	_
+
+1	a	_	V	V	_	0	root	_	_
+2	fait	_	VPP	VPP	_	1	NULL	_	_
+3	valoir	_	VINF	VINF	_	1	NULL	_	_
+4	,	_	PUNC	PUNC	_	1	NULL	_	_
+5	à	_	P	P	_	1	NULL	_	_
+6	titre	_	NC	NC	_	5	NULL	_	_
+7	principal	_	ADJ	ADJ	_	6	NULL	_	_
+9	que	_	CS	CS	_	12	NULL	_	_
+10	le	_	DET	DET	_	11	NULL	_	_
+11	crédit	_	NC	NC	_	12	NULL	_	_
+12	était	_	V	V	_	1	NULL	_	_
+13	destiné	_	VPP	VPP	_	12	NULL	_	_
+14	aux	_	P	P	_	12	NULL	_	_
+15	époux	_	NC	NC	_	14	NULL	_	_
+16	X.	_	NPP	NPP	_	15	NULL	_	_
+17	.	_	NPP	NPP	_	15	NULL	_	_
+18	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+1	et	_	CC	CC	_	6	NULL	_	_
+2	que	_	CS	CS	_	5	NULL	_	_
+3	Monsieur	_	NPP	NPP	_	5	NULL	_	_
+4	X.	_	NPP	NPP	_	3	NULL	_	_
+5	.	_	V	V	_	1	NULL	_	_
+6	.	_	PUNC	PUNC	_	0	root	_	_
+
+1	devait	_	V	V	_	0	root	_	_
+2	être	_	VINF	VINF	_	3	NULL	_	_
+3	appelé	_	VPP	VPP	_	1	NULL	_	_
+4	en	_	P	P	_	3	NULL	_	_
+5	la	_	DET	DET	_	6	NULL	_	_
+6	cause	_	NC	NC	_	4	NULL	_	_
+8	sa	_	DET	DET	_	9	NULL	_	_
+9	qualité	_	NC	NC	_	7	NULL	_	_
+10	de	_	P	P	_	9	NULL	_	_
+11	caution	_	NC	NC	_	10	NULL	_	_
+12	.	_	PUNC	PUNC	_	1	NULL	_	_
+
+(())
