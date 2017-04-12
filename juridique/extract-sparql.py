@@ -26,7 +26,7 @@ def reqRecursion(myResults):
 sparql2 = SPARQLWrapper("http://fr.dbpedia.org/sparql")
 sparql2.setQuery("""
     select ?label where {
-   ?cat rdfs:label "Système de castes en Inde"@fr .
+   ?cat rdfs:label "Systeme de castes en Inde"@fr .
    ?subcat skos:broader ?cat.
    ?subcat rdfs:label ?label.
 } LIMIT 1000
