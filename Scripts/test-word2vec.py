@@ -23,3 +23,14 @@ print("--------\n")
 
 # find the corresponding relationship
 y3 = model.most_similar(["dossier"])
+
+
+# 
+y4 = model.most_similar(positive=['tribunal', 'pénal'])
+for w in y4:
+	print(w[0],w[1])
+
+
+
+
+
