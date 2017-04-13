@@ -5318,96 +5318,7 @@ Branche du droit
 Organisation de la Justice
 Organisation juridique
 Métier du droit
-	 Avocat
-		 Avocat au Conseil d'État et à la Cour de cassation
-	 Magistrat
-		 Magistrat condamné pénalement ou sanctionné disciplinairement
-		 Magistrat de la Cour européenne des droits de l'homme
-			 Ancien magistrat de la Cour européenne des droits de l'homme
-		 Jurisconsulte
-		 Magistrat de fiction
-			 Juge Ti
-		 Juge d'instruction
-			 Juge d'instruction
-		 Oidor
-			 Oidor de la Real Audiencia de Caracas
-			 Oidor de la Real Audiencia de Mexico
-			 Oidor de la Real Audiencia de Quito
-			 Oidor de la Real Audiencia de Santa Fe de Bogotá
-		 Magistrat par nationalité
-			 Magistrat néerlandais
-				 Premier président du Parlement de Paris
-				 Juge au procès de Nuremberg
-				 Syndicalisme dans la magistrature
-				 Magistrat du parquet
-			 Magistrat grec
-			 Magistrat yéménite
-			 Magistrat savoyard
-			 Magistrat tongien
-			 Magistrat érythréen
-			 Censeur romain
-			 Magistrat américain
-				 Juge américain
-			 Magistrat coréen
-			 Magistrat espagnol
-				 Oidor
-			 Magistrat nigérian
-				 Juge québécois
-				 Juge néo-brunswickois
-				 Juge néo-écossais
-				 Juge de Terre-Neuve
-				 Juge du Manitoba
-				 Juge de l'Île-du-Prince-Édouard
-			 Magistrat du duché de Lorraine
-			 Magistrat monégasque
-			 Magistrat égyptien
-			 Magistrat d'une cour suprême par nationalité
-				 Juge à la Cour suprême des États-Unis
-	 Procureur
-		 Procureur de la République (France)
-			 Procureur de la République de Paris
-		 Procureur général
-			 Procureur général aux États-Unis
-				 Procureur général du Massachusetts
-				 Procureur général de Californie
-				 Procureur général des États-Unis
-				 Procureur général de l'Illinois
-			 Procureur général (France)
-				 Procureur général près la cour d'appel de Paris
 	 Profession juridique dans l'islam
-	 Avocat
-		 Avocat de fiction
-		 Bâtonnier
-		 Organisation professionnelle d'avocats
-			 Avocat au barreau de Dinant
-		 Avocat par nationalité
-			 Avocat kurde
-			 Avocat zimbabwéen
-			 Avocat suédois
-				 Avocat québécois
-				 Avocat néo-brunswickois
-			 Avocat péruvien
-			 Avocat srilankais
-			 Avocat néerlandais
-			 Avocat vénézuélien
-			 Avocat américain
-				 Avocat de l'Illinois
-			 Avocat romain
-			 Avocat grec
-			 Avocat espagnol
-			 Avocat béninois
-			 Avocat kényan
-				 Formation des avocats
-			 Avocat norvégien
-			 Avocat tchèque
-				 Avocat anglais
-			 Avocat du duché de Lorraine
-				 Avocat tchétchène
-			 Avocat égyptien
-		 Cabinet d'avocats
-		 Avocat par époque
-			 Avocat romain
-				 Avocat norvégien
 	 Policier
 		 Enquêteur
 			 Enquêteur de fiction
@@ -5416,16 +5327,7 @@ Métier du droit
 				 Policier de fiction
 				 Agent du FBI de fiction
 		 Agent provocateur
-		 Policier par nationalité
-			 Policier espagnol
-				 Policier québécois
-				 Commissaire de police (France)
-				 Dirigeant des Renseignements généraux
-			 Policier américain
-				 Personnalité du Federal Bureau of Investigation
-			 Policier nigérien
-			 Policier suédois
-			 Policier tibétain
+		 Policier
 		 Police internationale (Interpol et Nations unies)
 	 Notaire
 		 Notaire par nationalité
@@ -5444,72 +5346,10 @@ Personnalité du droit
 		 Juge d'instruction
 			 Juge d'instruction
 		 Oidor
-			 Oidor de la Real Audiencia de Caracas
-			 Oidor de la Real Audiencia de Mexico
-			 Oidor de la Real Audiencia de Quito
-			 Oidor de la Real Audiencia de Santa Fe de Bogotá
-		 Magistrat par nationalité
-			 Magistrat néerlandais
-				 Premier président du Parlement de Paris
-				 Juge au procès de Nuremberg
-				 Syndicalisme dans la magistrature
-				 Magistrat du parquet
-			 Magistrat grec
-			 Magistrat yéménite
-			 Magistrat savoyard
-			 Magistrat tongien
-			 Magistrat érythréen
-			 Censeur romain
-			 Magistrat américain
-				 Juge américain
-			 Magistrat coréen
-			 Magistrat espagnol
-				 Oidor
-			 Magistrat nigérian
-				 Juge québécois
-				 Juge néo-brunswickois
-				 Juge néo-écossais
-				 Juge de Terre-Neuve
-				 Juge du Manitoba
-				 Juge de l'Île-du-Prince-Édouard
-			 Magistrat du duché de Lorraine
-			 Magistrat monégasque
-			 Magistrat égyptien
+		 Magistrat
 			 Magistrat d'une cour suprême par nationalité
 				 Juge à la Cour suprême des États-Unis
 	 Avocat
-		 Avocat de fiction
-		 Bâtonnier
-		 Organisation professionnelle d'avocats
-			 Avocat au barreau de Dinant
-		 Avocat par nationalité
-			 Avocat kurde
-			 Avocat zimbabwéen
-			 Avocat suédois
-				 Avocat québécois
-				 Avocat néo-brunswickois
-			 Avocat péruvien
-			 Avocat srilankais
-			 Avocat néerlandais
-			 Avocat vénézuélien
-			 Avocat américain
-				 Avocat de l'Illinois
-			 Avocat romain
-			 Avocat grec
-			 Avocat espagnol
-			 Avocat béninois
-			 Avocat kényan
-				 Formation des avocats
-			 Avocat norvégien
-			 Avocat tchèque
-				 Avocat anglais
-			 Avocat du duché de Lorraine
-				 Avocat tchétchène
-			 Avocat égyptien
-		 Cabinet d'avocats
-		 Avocat par époque
-			 Avocat romain
-				 Avocat norvégien
 	 Historien du droit
 		 Théoricien du droit
 	 Juriste
@@ -5523,115 +5363,23 @@ Personnalité du droit
 			 Juge d'instruction
 				 Juge d'instruction
 			 Oidor
-				 Oidor de la Real Audiencia de Caracas
-				 Oidor de la Real Audiencia de Mexico
-				 Oidor de la Real Audiencia de Quito
-				 Oidor de la Real Audiencia de Santa Fe de Bogotá
-			 Magistrat par nationalité
-				 Magistrat néerlandais
-				 Magistrat grec
-				 Magistrat yéménite
-				 Magistrat savoyard
-				 Magistrat tongien
-				 Magistrat érythréen
-				 Censeur romain
-				 Magistrat américain
-				 Magistrat coréen
-				 Magistrat espagnol
-				 Magistrat nigérian
-				 Magistrat du duché de Lorraine
-				 Magistrat monégasque
-				 Magistrat égyptien
-				 Magistrat d'une cour suprême par nationalité
+			 Magistrat
 		 Avocat
 			 Avocat de fiction
 			 Bâtonnier
 			 Organisation professionnelle d'avocats
 				 Avocat au barreau de Dinant
-			 Avocat par nationalité
-				 Avocat kurde
-				 Avocat zimbabwéen
-				 Avocat suédois
-				 Avocat péruvien
-				 Avocat srilankais
-				 Avocat néerlandais
-				 Avocat vénézuélien
-				 Avocat américain
-				 Avocat romain
-				 Avocat grec
-				 Avocat espagnol
-				 Avocat béninois
-				 Avocat kényan
-				 Avocat norvégien
-				 Avocat tchèque
-				 Avocat du duché de Lorraine
-				 Avocat égyptien
 			 Cabinet d'avocats
 			 Avocat par époque
 				 Avocat romain
-		 Procureur général
-			 Procureur général aux États-Unis
-				 Procureur général du Massachusetts
-				 Procureur général de Californie
-				 Procureur général des États-Unis
-				 Procureur général de l'Illinois
-			 Procureur général (France)
+			 Procureur général
 				 Procureur général près la cour d'appel de Paris
 		 Jurisconsulte
 		 Juriste africain
 			 Juriste béninois
 				 Avocat béninois
 		 Wikipédia:ébauche juriste
-		 Juriste par époque
-			 Avocat par époque
-				 Avocat romain
-		 Notaire
-			 Notaire par nationalité
-				 Notaire néerlandais
-				 Notaire espagnol
-		 Juriste par nationalité
-			 Juriste slovène
-				 Juriste sarde
-			 Juriste grec
-				 Magistrat grec
-				 Avocat grec
-				 Professeur de droit grec
-			 Juriste néerlandais
-				 Professeur de droit néerlandais
-			 Juriste américain
-				 Professeur de droit des États-Unis
-				 Avocat américain
-				 Professeur à la faculté de droit de Harvard
-				 Maître de conférences en droit
-			 Juriste romain
-			 Personnalité juridique américaine
-				 Juge américain
-				 Avocat américain
-				 Juriste américain
-				 Magistrat américain
-			 Juriste espagnol
-				 Notaire espagnol
-				 Professeur de droit espagnol
-			 Juriste béninois
-				 Avocat béninois
-			 Juriste soviétique
-			 Juriste srilankais
-			 Professeur de droit par nationalité
-				 Professeur de droit des États-Unis
-				 Professeur de droit péruvien
-				 Professeur de droit égyptien
-				 Professeur de droit tibétain
-				 Professeur de droit suédois
-				 Professeur de droit espagnol
-				 Professeur de droit grec
-				 Professeur de droit néerlandais
-				 Professeur de droit américain
-				 Juriste genevois
-			 Juriste norvégien
-			 Juriste suédois
-				 Avocat suédois
-				 Professeur de droit suédois
-			 Juriste égyptien
+		 Juriste
 				 Professeur de droit égyptien
 				 Magistrat égyptien
 		 Juriste par spécialité
@@ -5734,14 +5482,6 @@ Personnalité du droit
 			 Pirate de fiction
 				 Personnage de Monkey Island
 			 Femme pirate
-			 Pirate par nationalité
-				 Pirate espagnol
-				 Pirate grec
-				 Pirate breton
-				 Pirate gallois
-				 Pirate américain
-				 Pirate néerlandais
-				 Pirate suédois
 		 Bandit de grand chemin
 		 Condamné aux travaux forcés
 			 Criminel de guerre nazi condamné aux travaux forcés
@@ -5751,20 +5491,6 @@ Personnalité du droit
 				 Tueur en série américain
 				 Condamné à la prison à perpétuité aux États-Unis
 				 Américain condamné pour espionnage au profit de l'Union soviétique
-				 Pirate américain
-			 Égyptien condamné pour crime
-				 Québécois condamné pour crime
-			 Néerlandais condamné pour crime
-				 Pirate néerlandais
-			 Vénézuélien condamné pour crime
-			 Pirate par nationalité
-				 Pirate espagnol
-				 Pirate grec
-				 Pirate breton
-				 Pirate gallois
-				 Pirate américain
-				 Pirate néerlandais
-				 Pirate suédois
 			 Premier président du Parlement de Paris
 				 Conseiller de tribunal administratif et de cour administrative d'appel
 			 Juge au procès de Nuremberg
@@ -5800,9 +5526,3 @@ Personnalité du droit
 				 Juge à la CRR ou à la CNDA
 			 Juge de l'ordre judiciaire
 				 Magistrat du siège de l'ordre judiciaire
-	 Notaire
-		 Notaire par nationalité
-			 Notaire néerlandais
-			 Notaire espagnol
-				 Notaire québécois
-				 Notaire néo-brunswickois
