@@ -19,17 +19,21 @@ def calcul_similarity(v1,v2):
     return 1 - scipy.spatial.distance.cosine(v1,v2)
 
 # main program
-# logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-# sentences = word2vec.Text8Corpus("../Corpus/types/ABUS_DE_CONFIANCE.txt")  # load corpus
-# model = word2vec.Word2Vec(sentences, size=200)
+# def main():
+    # logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+    # sentences = word2vec.Text8Corpus("../Corpus/types/ABUS_DE_CONFIANCE.txt")  # load corpus
+    # model = word2vec.Word2Vec(sentences, size=200)
 
-model = gensim.models.Word2Vec.load('../Resultats/wv.model')
+    # model = gensim.models.Word2Vec.load('../Resultats/wv.model')
 
-# calculer le vecteur moyen d'une liste de mots
-v1 = avg_feature_vector('Empire'.split(),model, num_features=300)
-# print(v1)
-v2 = avg_feature_vector(['démocratie'],model, num_features=300)
+    # calculer le vecteur moyen d'une liste de mots
+    # v1 = avg_feature_vector("réfugié".split(),model, num_features=300)
+    # print(v1)
+    # v2 = avg_feature_vector(['démocratie'],model, num_features=300)
 
-s = calcul_similarity(v1,v2)
-print(s)
+    # s = calcul_similarity(v1,v2)
+    # print(s)
+
+# if __name__ == '__main__':
+#     main()
 
