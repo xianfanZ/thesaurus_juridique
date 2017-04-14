@@ -3,7 +3,7 @@
 from itertools import combinations
 import logging,scipy,gensim.models
 import calcul_similar,re
-"""
+
 tmp = ""
 char = re.compile("\w")
 with open('../Resultats/thesaurus-corpus.txt','r') as f:
@@ -19,28 +19,30 @@ with open('../Resultats/thesaurus-corpus.txt','r') as f:
 		else:
 			tmp += '\n'
 			# print('\n')
-print(tmp)
 
 niveau4 = tmp.split('\n')
 niveau4 = list(filter(None, niveau4))
-print(niveau4)
+# print(niveau4)
 
-			termePrecedant = lignes[i-1]
-			if re.search(char,termePrecedant).start == 3 :
-				print('---------------')
-				print(termePrecedant)
-			elif re.search(char,termePrecedant).start == 4 :
-				print(terme)
+model = gensim.models.Word2Vec.load('../Resultats/wv.model')
 
-		i += 1
+for t in niveau4:
+	sac_thesaurus = t.split(',')
+	sac_thesaurus = list(filter(None, sac_thesaurus))
+	if len(sac_thesaurus) > 1:
+		print('----------------------------------------------')
+		# print(sac_thesaurus)
+		combine = list(combinations(sac_thesaurus,2))
+		for t1,t2 in combine:
+			s = calcul_similar.calcul_similarity(calcul_similar.avg_feature_vector(t1.split(),model, num_features=300),calcul_similar.avg_feature_vector(t2.split(),model, num_features=300))
+			print(t1,"-",t2," : ",s)
 
-print(dico)
 
 
 
 
 """
-model = gensim.models.Word2Vec.load('../Resultats/wv2.model')
+model = gensim.models.Word2Vec.load('../Resultats/wv.model')
 # l = ("Délit pénal,Peine de mort,Loi d'amnistie").split(',')
 l = ("Référendum,Peine de mort,Loi d'amnistie").split(',')
 l_combine = list(combinations(l,2))
@@ -49,7 +51,7 @@ for t1,t2 in l_combine:
 	print(t1,"-",t2," : ",s)
 
 
-
+"""
 
 
 

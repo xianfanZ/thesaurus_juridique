@@ -9,7 +9,13 @@ def avg_feature_vector(words, model, num_features):
         nwords = 0
         for word in words:
             nwords = nwords+1
-            featureVec = np.add(featureVec, model[word])
+            try:
+                c = model[word.lower()]
+            except KeyError:
+                # print(word,"not in vocabulary")
+                c = 0
+            # featureVec = np.add(featureVec, model[word])
+            featureVec = np.add(featureVec, c)
         if(nwords>0):
             featureVec = np.divide(featureVec, nwords)
         return featureVec

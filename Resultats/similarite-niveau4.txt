@@ -1,0 +1,1214 @@
+----------------------------------------------
+Référendum - Juriste  :  nan
+Référendum - Cour suprême  :  nan
+Référendum - Loi américaine  :  nan
+Référendum - Droit musulman  :  nan
+Juriste - Cour suprême  :  -0.0188659487239
+Juriste - Loi américaine  :  -0.0212150327796
+Juriste - Droit musulman  :  0.116283141381
+Cour suprême - Loi américaine  :  0.0873237872227
+Cour suprême - Droit musulman  :  0.0492111566028
+Loi américaine - Droit musulman  :  0.0654044678415
+----------------------------------------------
+Document d'urbanisme - Zone d'aménagement concerté  :  0.0675044411699
+----------------------------------------------
+Atelier d'artiste - Ruines  :  0.300013266854
+Atelier d'artiste - Type de bâtiment  :  0.456026195547
+Atelier d'artiste - Projet architectural  :  0.356010713817
+Ruines - Type de bâtiment  :  0.12762345924
+Ruines - Projet architectural  :  0.151297011177
+Type de bâtiment - Projet architectural  :  0.411644896092
+----------------------------------------------
+Monopole - Droit de la concurrence  :  0.283570978465
+----------------------------------------------
+Exil - Réfugié  :  0.112571925412
+----------------------------------------------
+Contentieux administratif - Justice administrative  :  0.358255442802
+Contentieux administratif - Service public  :  0.299010793303
+Justice administrative - Service public  :  0.161403723593
+----------------------------------------------
+Contentieux administratif - Justice administrative  :  0.358255442802
+----------------------------------------------
+Vote électronique - Droit de vote  :  0.448086833087
+Vote électronique - Fraude électorale  :  0.192189062666
+Droit de vote - Fraude électorale  :  0.21640300915
+----------------------------------------------
+Référendum - Conseil constitutionnel  :  nan
+----------------------------------------------
+Dictature - Démocratie  :  nan
+Dictature - Empire  :  nan
+Dictature - Principauté  :  nan
+Dictature - République  :  nan
+Démocratie - Empire  :  0.186925228953
+Démocratie - Principauté  :  0.120798534596
+Démocratie - République  :  -0.0709396444299
+Empire - Principauté  :  0.130612837743
+Empire - République  :  -0.0416013419321
+Principauté - République  :  0.151833064539
+----------------------------------------------
+Plaque d'immatriculation - Signalisation routière  :  0.40793007575
+Plaque d'immatriculation - Stationnement  :  0.399845955994
+Plaque d'immatriculation - Carrefour  :  0.0692001012361
+Signalisation routière - Stationnement  :  0.620818362383
+Signalisation routière - Carrefour  :  0.378241121941
+Stationnement - Carrefour  :  0.434658678645
+----------------------------------------------
+Convention européenne des droits de l'homme - Cour européenne des droits de l'homme  :  0.777984851192
+----------------------------------------------
+Délit pénal - Délit pénal  :  0.999999948719
+Délit pénal - Peine de mort  :  0.154771279639
+Délit pénal - Loi d'amnistie  :  0.153052863712
+Délit pénal - Peine de mort  :  0.154771279639
+Délit pénal - Loi d'amnistie  :  0.153052863712
+Peine de mort - Loi d'amnistie  :  0.0834706648592
+----------------------------------------------
+Détention provisoire - Procureur  :  -0.0795576232282
+Détention provisoire - Procédure pénale  :  0.21186475865
+Détention provisoire - Extradition  :  0.223997517293
+Détention provisoire - Police  :  0.126549199323
+Détention provisoire - Témoin  :  0.123769193903
+Détention provisoire - Expertise en écritures  :  0.138859029461
+Détention provisoire - Juge d'instruction  :  0.433612035655
+Détention provisoire - Gendarmerie nationale  :  -0.0909816572497
+Procureur - Procédure pénale  :  -0.0237745475519
+Procureur - Extradition  :  0.0268482111527
+Procureur - Police  :  0.030615684993
+Procureur - Témoin  :  0.0946207292029
+Procureur - Expertise en écritures  :  0.0419567939635
+Procureur - Juge d'instruction  :  0.225237802174
+Procureur - Gendarmerie nationale  :  0.100556821059
+Procédure pénale - Extradition  :  0.180369477668
+Procédure pénale - Police  :  0.0858005299183
+Procédure pénale - Témoin  :  0.0966312536326
+Procédure pénale - Expertise en écritures  :  0.07396067221
+Procédure pénale - Juge d'instruction  :  0.190982247534
+Procédure pénale - Gendarmerie nationale  :  -0.0480696044532
+Extradition - Police  :  0.0104075576348
+Extradition - Témoin  :  0.107284862222
+Extradition - Expertise en écritures  :  0.0489599456891
+Extradition - Juge d'instruction  :  0.164370996115
+Extradition - Gendarmerie nationale  :  0.0946045068749
+Police - Témoin  :  0.100665373252
+Police - Expertise en écritures  :  0.0743729945603
+Police - Juge d'instruction  :  0.122151971955
+Police - Gendarmerie nationale  :  0.252749632112
+Témoin - Expertise en écritures  :  0.13310441732
+Témoin - Juge d'instruction  :  0.253609580308
+Témoin - Gendarmerie nationale  :  -0.149702861212
+Expertise en écritures - Juge d'instruction  :  0.248352552699
+Expertise en écritures - Gendarmerie nationale  :  -0.136855019942
+Juge d'instruction - Gendarmerie nationale  :  -0.0392685237835
+----------------------------------------------
+Assassinat - Code pénal  :  0.0174285408406
+Assassinat - Surveillance  :  0.0907838111659
+Assassinat - Évasion  :  0.236710522891
+Assassinat - Prison  :  0.290364875477
+Assassinat - Affaire criminelle  :  0.112716054346
+Assassinat - Délinquance  :  0.0887715733317
+Assassinat - Enlèvement  :  0.237669659407
+Assassinat - Otage  :  0.254396883604
+Assassinat - Trafic de stupéfiant  :  0.079893329137
+Assassinat - Contrebande  :  0.210081136004
+Assassinat - Fraude  :  0.221071778264
+Assassinat - Harcèlement  :  0.356261646701
+Assassinat - Victime  :  0.288194304845
+Assassinat - Tentative de meurtre  :  0.326700790314
+Assassinat - Procédure pénale  :  0.0143961271117
+Code pénal - Surveillance  :  -0.107760211583
+Code pénal - Évasion  :  -0.0619690570998
+Code pénal - Prison  :  0.0269871728922
+Code pénal - Affaire criminelle  :  -0.0332684865365
+Code pénal - Délinquance  :  0.0141716396756
+Code pénal - Enlèvement  :  0.0221142359619
+Code pénal - Otage  :  -0.00958522809974
+Code pénal - Trafic de stupéfiant  :  -0.0109921188107
+Code pénal - Contrebande  :  0.0075271777532
+Code pénal - Fraude  :  0.0425690343255
+Code pénal - Harcèlement  :  0.133306592158
+Code pénal - Victime  :  -0.0445245391017
+Code pénal - Tentative de meurtre  :  -0.0305473137634
+Code pénal - Procédure pénale  :  0.491485351649
+Surveillance - Évasion  :  0.370186242309
+Surveillance - Prison  :  0.107599514355
+Surveillance - Affaire criminelle  :  -0.00844686738035
+Surveillance - Délinquance  :  0.361255209472
+Surveillance - Enlèvement  :  0.333357956446
+Surveillance - Otage  :  0.102646394647
+Surveillance - Trafic de stupéfiant  :  0.313458695318
+Surveillance - Contrebande  :  0.149391927591
+Surveillance - Fraude  :  0.148487162999
+Surveillance - Harcèlement  :  -0.0135155811044
+Surveillance - Victime  :  0.142616768113
+Surveillance - Tentative de meurtre  :  0.355452974451
+Surveillance - Procédure pénale  :  -0.040250050519
+Évasion - Prison  :  0.397486019908
+Évasion - Affaire criminelle  :  0.161401228234
+Évasion - Délinquance  :  0.362708111895
+Évasion - Enlèvement  :  0.35804509978
+Évasion - Otage  :  0.316783223935
+Évasion - Trafic de stupéfiant  :  0.250672445629
+Évasion - Contrebande  :  0.242316419164
+Évasion - Fraude  :  0.319787952939
+Évasion - Harcèlement  :  0.0630121741772
+Évasion - Victime  :  0.111630112039
+Évasion - Tentative de meurtre  :  0.356510113808
+Évasion - Procédure pénale  :  0.0755354837205
+Prison - Affaire criminelle  :  0.189976854623
+Prison - Délinquance  :  0.220701629609
+Prison - Enlèvement  :  0.205297635315
+Prison - Otage  :  0.19826785052
+Prison - Trafic de stupéfiant  :  0.0274172999699
+Prison - Contrebande  :  0.221747710938
+Prison - Fraude  :  0.0793635442014
+Prison - Harcèlement  :  0.0139970701503
+Prison - Victime  :  0.0242294813549
+Prison - Tentative de meurtre  :  0.169658701911
+Prison - Procédure pénale  :  0.0699438055566
+Affaire criminelle - Délinquance  :  0.190080152364
+Affaire criminelle - Enlèvement  :  -0.0784678332772
+Affaire criminelle - Otage  :  0.180398743349
+Affaire criminelle - Trafic de stupéfiant  :  -0.0432540717497
+Affaire criminelle - Contrebande  :  -0.0593597521549
+Affaire criminelle - Fraude  :  -0.0558463432737
+Affaire criminelle - Harcèlement  :  -0.139068252783
+Affaire criminelle - Victime  :  0.0811582148731
+Affaire criminelle - Tentative de meurtre  :  0.132808722694
+Affaire criminelle - Procédure pénale  :  0.259734288947
+Délinquance - Enlèvement  :  0.149908193674
+Délinquance - Otage  :  0.231632543204
+Délinquance - Trafic de stupéfiant  :  0.163352625708
+Délinquance - Contrebande  :  0.301579600519
+Délinquance - Fraude  :  0.252698217686
+Délinquance - Harcèlement  :  0.0226345693348
+Délinquance - Victime  :  0.113912544453
+Délinquance - Tentative de meurtre  :  0.231743017882
+Délinquance - Procédure pénale  :  0.152092280668
+Enlèvement - Otage  :  0.245604106663
+Enlèvement - Trafic de stupéfiant  :  0.202176197309
+Enlèvement - Contrebande  :  0.310338893167
+Enlèvement - Fraude  :  0.121219731896
+Enlèvement - Harcèlement  :  0.222664858835
+Enlèvement - Victime  :  0.0329314436494
+Enlèvement - Tentative de meurtre  :  0.142141596356
+Enlèvement - Procédure pénale  :  -0.0708401043302
+Otage - Trafic de stupéfiant  :  -0.0428113749433
+Otage - Contrebande  :  0.101460149704
+Otage - Fraude  :  0.00667871467342
+Otage - Harcèlement  :  -0.0171642128765
+Otage - Victime  :  -0.0182385017019
+Otage - Tentative de meurtre  :  0.0466167138192
+Otage - Procédure pénale  :  0.0360894571307
+Trafic de stupéfiant - Contrebande  :  0.251871474495
+Trafic de stupéfiant - Fraude  :  0.173910567032
+Trafic de stupéfiant - Harcèlement  :  0.182357230507
+Trafic de stupéfiant - Victime  :  0.0550262459502
+Trafic de stupéfiant - Tentative de meurtre  :  0.761850349321
+Trafic de stupéfiant - Procédure pénale  :  -0.00663956205884
+Contrebande - Fraude  :  0.27031761652
+Contrebande - Harcèlement  :  0.13352059572
+Contrebande - Victime  :  0.00570511740934
+Contrebande - Tentative de meurtre  :  0.365511263469
+Contrebande - Procédure pénale  :  -0.0286510799002
+Fraude - Harcèlement  :  0.225443115597
+Fraude - Victime  :  0.315074934761
+Fraude - Tentative de meurtre  :  0.395738035546
+Fraude - Procédure pénale  :  0.110666340559
+Harcèlement - Victime  :  0.349483098914
+Harcèlement - Tentative de meurtre  :  0.217595377333
+Harcèlement - Procédure pénale  :  0.0312949239206
+Victime - Tentative de meurtre  :  0.202332901768
+Victime - Procédure pénale  :  -0.0267702789721
+Tentative de meurtre - Procédure pénale  :  0.108280335508
+----------------------------------------------
+Perpétuité - Prison  :  0.472622141995
+Perpétuité - Torture  :  0.23680536266
+Perpétuité - Crime contre l'humanité  :  0.0220487840843
+Prison - Torture  :  0.17060208888
+Prison - Crime contre l'humanité  :  -0.00282697696295
+Torture - Crime contre l'humanité  :  -0.0348448445484
+----------------------------------------------
+Fraude fiscale - Paradis fiscal  :  0.115562182463
+Fraude fiscale - Droit fiscal  :  0.122664751923
+Paradis fiscal - Droit fiscal  :  0.297270191506
+----------------------------------------------
+Comptabilité publique - Fiscalité  :  0.0247890312928
+----------------------------------------------
+Sécurité sociale - Assurance maladie  :  0.260418607974
+Sécurité sociale - Droit de la sécurité sociale  :  0.656632940825
+Assurance maladie - Droit de la sécurité sociale  :  0.234892372327
+----------------------------------------------
+Chômage - Sécurité sociale  :  0.211669795087
+----------------------------------------------
+Durée du travail - Grève  :  0.399272399896
+Durée du travail - Contrat de travail  :  0.612731281878
+Durée du travail - Hygiène et sécurité  :  0.324211507954
+Durée du travail - Juridiction du travail  :  0.671684268969
+Durée du travail - Droit disciplinaire  :  0.124101693435
+Grève - Contrat de travail  :  0.312443784541
+Grève - Hygiène et sécurité  :  0.278324627431
+Grève - Juridiction du travail  :  0.261588942244
+Grève - Droit disciplinaire  :  0.171799003092
+Contrat de travail - Hygiène et sécurité  :  0.22631027396
+Contrat de travail - Juridiction du travail  :  0.462883115797
+Contrat de travail - Droit disciplinaire  :  0.204855676184
+Hygiène et sécurité - Juridiction du travail  :  0.284870673944
+Hygiène et sécurité - Droit disciplinaire  :  0.0587733193799
+Juridiction du travail - Droit disciplinaire  :  0.129709085352
+----------------------------------------------
+Établissement public à caractère industriel et commercial - Comptabilité publique  :  0.0619413945375
+----------------------------------------------
+Détective privé - Évasion  :  -0.0732631949392
+Détective privé - Prison  :  -0.164476867283
+Détective privé - Contention  :  nan
+Détective privé - Camp de concentration  :  0.0700553498293
+Détective privé - Hôpital psychiatrique  :  0.00705579100227
+Détective privé - Centre de détention  :  0.0573805914181
+Évasion - Prison  :  0.397486019908
+Évasion - Contention  :  nan
+Évasion - Camp de concentration  :  0.215351473565
+Évasion - Hôpital psychiatrique  :  0.30976881812
+Évasion - Centre de détention  :  0.180652126639
+Prison - Contention  :  nan
+Prison - Camp de concentration  :  -0.0184637066762
+Prison - Hôpital psychiatrique  :  0.297678833873
+Prison - Centre de détention  :  0.0756476720193
+Contention - Camp de concentration  :  nan
+Contention - Hôpital psychiatrique  :  nan
+Contention - Centre de détention  :  nan
+Camp de concentration - Hôpital psychiatrique  :  0.0808901052796
+Camp de concentration - Centre de détention  :  0.494519410671
+Hôpital psychiatrique - Centre de détention  :  0.431707397086
+----------------------------------------------
+Renseignement - Données personnelles  :  0.17130526983
+Renseignement - Gendarmerie nationale  :  -0.020720058971
+Renseignement - Médecine légale  :  0.100559747027
+Renseignement - Expertise en écritures  :  0.0316791367673
+Données personnelles - Gendarmerie nationale  :  0.0489209466286
+Données personnelles - Médecine légale  :  0.0516744109838
+Données personnelles - Expertise en écritures  :  0.220140718199
+Gendarmerie nationale - Médecine légale  :  0.0283168257038
+Gendarmerie nationale - Expertise en écritures  :  -0.136855019942
+Médecine légale - Expertise en écritures  :  -0.157812264265
+----------------------------------------------
+Émeute - Direction nationale du renseignement  :  nan
+----------------------------------------------
+Agent conservateur - Numéro E  :  0.121367054484
+Agent conservateur - Vitamine  :  0.0809074810674
+Agent conservateur - Sirop  :  0.0597508856918
+Agent conservateur - Agent conservateur  :  0.999999880162
+Numéro E - Vitamine  :  0.461192721464
+Numéro E - Sirop  :  0.225131202274
+Numéro E - Agent conservateur  :  0.121367054484
+Vitamine - Sirop  :  0.169181910351
+Vitamine - Agent conservateur  :  0.0809074810674
+Sirop - Agent conservateur  :  0.0597508856918
+----------------------------------------------
+Fouet - Coopérative  :  nan
+Fouet - Fondation  :  nan
+Coopérative - Fondation  :  0.486335345762
+----------------------------------------------
+Droit des assurances - Mutualité  :  0.156199893829
+Droit des assurances - Retraite  :  0.207768702198
+Droit des assurances - Assurance maladie  :  0.286873399036
+Droit des assurances - Assurance chômage  :  0.352140049232
+Droit des assurances - Compagnie d'assurances  :  0.286430188146
+Mutualité - Retraite  :  0.429519547516
+Mutualité - Assurance maladie  :  0.366527182923
+Mutualité - Assurance chômage  :  0.400407496894
+Mutualité - Compagnie d'assurances  :  0.295524182041
+Retraite - Assurance maladie  :  0.453094643961
+Retraite - Assurance chômage  :  0.504056052763
+Retraite - Compagnie d'assurances  :  0.233600521155
+Assurance maladie - Assurance chômage  :  0.776832495845
+Assurance maladie - Compagnie d'assurances  :  0.458584011045
+Assurance chômage - Compagnie d'assurances  :  0.435412458957
+----------------------------------------------
+Logo - Spécialité pharmaceutique  :  0.451500647985
+----------------------------------------------
+Monopole - Cartel  :  nan
+Monopole - Droit des brevets  :  0.397514470122
+Monopole - Pratique anticoncurrentielle  :  0.351994684537
+Cartel - Droit des brevets  :  nan
+Cartel - Pratique anticoncurrentielle  :  nan
+Droit des brevets - Pratique anticoncurrentielle  :  0.192130364597
+----------------------------------------------
+Groupement d'intérêt économique - Société coopérative de production  :  0.254574997327
+Groupement d'intérêt économique - Entreprise publique  :  0.159852258601
+Société coopérative de production - Entreprise publique  :  0.0566065783006
+----------------------------------------------
+Maladie professionnelle - Sécurité alimentaire  :  0.203791256814
+----------------------------------------------
+Prud'hommes - Grève  :  -0.0554985717085
+Prud'hommes - Organisation patronale  :  0.0633929649066
+Prud'hommes - Syndicat  :  0.0856802559741
+Prud'hommes - Droit syndical  :  0.0997244545705
+Grève - Organisation patronale  :  0.251839506501
+Grève - Syndicat  :  0.0608768442785
+Grève - Droit syndical  :  0.211929206858
+Organisation patronale - Syndicat  :  0.0190949603524
+Organisation patronale - Droit syndical  :  0.0251286240275
+Syndicat - Droit syndical  :  0.199615620167
+----------------------------------------------
+Municipalité - Commune  :  0.211614705341
+Municipalité - Diocèse  :  nan
+Municipalité - District  :  0.250898813823
+Municipalité - Département  :  0.157573156002
+Municipalité - Province  :  0.325256119689
+Municipalité - Région  :  0.30689268932
+Municipalité - Intercommunalité  :  nan
+Commune - Diocèse  :  nan
+Commune - District  :  0.19429513643
+Commune - Département  :  0.310465153398
+Commune - Province  :  0.142235952771
+Commune - Région  :  0.345939877244
+Commune - Intercommunalité  :  nan
+Diocèse - District  :  nan
+Diocèse - Département  :  nan
+Diocèse - Province  :  nan
+Diocèse - Région  :  nan
+Diocèse - Intercommunalité  :  nan
+District - Département  :  0.573814222331
+District - Province  :  0.315691159656
+District - Région  :  0.490623036515
+District - Intercommunalité  :  nan
+Département - Province  :  0.297949004675
+Département - Région  :  0.699344773058
+Département - Intercommunalité  :  nan
+Province - Région  :  0.385314887615
+Province - Intercommunalité  :  nan
+Région - Intercommunalité  :  nan
+----------------------------------------------
+Armée - Police  :  0.188716135867
+Armée - Entreprise publique  :  0.126032003551
+Armée - Sécurité sociale  :  0.0568231994353
+Armée - Fonction publique  :  0.0530823398027
+Armée - Gendarmerie nationale  :  0.328238044517
+Armée - Sous-préfet  :  0.174166829261
+Police - Entreprise publique  :  -0.0266487533001
+Police - Sécurité sociale  :  0.196262133697
+Police - Fonction publique  :  -0.0116353431206
+Police - Gendarmerie nationale  :  0.252749632112
+Police - Sous-préfet  :  0.0628539669385
+Entreprise publique - Sécurité sociale  :  0.166192346996
+Entreprise publique - Fonction publique  :  0.814442599554
+Entreprise publique - Gendarmerie nationale  :  -0.00230064514807
+Entreprise publique - Sous-préfet  :  0.0361109036766
+Sécurité sociale - Fonction publique  :  0.155679906188
+Sécurité sociale - Gendarmerie nationale  :  0.269736148702
+Sécurité sociale - Sous-préfet  :  0.102603446992
+Fonction publique - Gendarmerie nationale  :  -0.000603157528284
+Fonction publique - Sous-préfet  :  0.0711433035352
+Gendarmerie nationale - Sous-préfet  :  0.14732208579
+----------------------------------------------
+Anonymat - Patronyme  :  0.277598149868
+Anonymat - Pseudonyme  :  0.389763572949
+Anonymat - Titre  :  -0.0281774631698
+Anonymat - Éponyme  :  0.316720107639
+Patronyme - Pseudonyme  :  0.385551379936
+Patronyme - Titre  :  0.0524005682266
+Patronyme - Éponyme  :  0.295112194749
+Pseudonyme - Titre  :  0.0751946762477
+Pseudonyme - Éponyme  :  0.275696691146
+Titre - Éponyme  :  -0.0205330521353
+----------------------------------------------
+Témoin - Expertise en écritures  :  0.13310441732
+----------------------------------------------
+Atelier d'artiste - Ruines  :  0.300013266854
+Atelier d'artiste - Type de bâtiment  :  0.456026195547
+Atelier d'artiste - Projet architectural  :  0.356010713817
+Ruines - Type de bâtiment  :  0.12762345924
+Ruines - Projet architectural  :  0.151297011177
+Type de bâtiment - Projet architectural  :  0.411644896092
+----------------------------------------------
+Divorce - Union civile  :  0.172892931444
+----------------------------------------------
+Droit des brevets - Inventeur  :  0.11016072008
+Droit des brevets - Droit des marques  :  0.987335382194
+Inventeur - Droit des marques  :  0.093344330136
+----------------------------------------------
+Copropriété - Propriété industrielle  :  0.33484094025
+----------------------------------------------
+Assurance - Quasi-contrat  :  0.0905136737011
+----------------------------------------------
+Contrat - Clause contractuelle  :  0.35282384158
+Contrat - Type de contrat  :  0.850831168448
+Clause contractuelle - Type de contrat  :  0.347573230737
+----------------------------------------------
+Surveillance - Anonymat  :  0.0982469067935
+Surveillance - Données personnelles  :  0.308221978835
+Surveillance - Identifiant  :  0.163645045916
+Surveillance - Secret  :  0.141389927723
+Anonymat - Données personnelles  :  0.164129198928
+Anonymat - Identifiant  :  0.243016380815
+Anonymat - Secret  :  0.0860615879293
+Données personnelles - Identifiant  :  0.100946609132
+Données personnelles - Secret  :  0.10834399054
+Identifiant - Secret  :  0.124431054865
+----------------------------------------------
+Groupement d'intérêt économique - Société coopérative de production  :  0.254574997327
+Groupement d'intérêt économique - Entreprise publique  :  0.159852258601
+Société coopérative de production - Entreprise publique  :  0.0566065783006
+----------------------------------------------
+Constitution de 1958 - Question prioritaire de constitutionnalité  :  0.364646327228
+----------------------------------------------
+Champa - Droit musulman  :  nan
+----------------------------------------------
+Château - Couronne  :  0.242796780961
+Château - Empire  :  0.0389413156455
+Château - Noblesse  :  nan
+Château - Principauté  :  0.406890272159
+Château - Reine  :  0.65694180954
+Château - Palais  :  0.274805753103
+Couronne - Empire  :  0.132656670529
+Couronne - Noblesse  :  nan
+Couronne - Principauté  :  0.184600556001
+Couronne - Reine  :  0.167406082066
+Couronne - Palais  :  -0.0216249336291
+Empire - Noblesse  :  nan
+Empire - Principauté  :  0.130612837743
+Empire - Reine  :  -0.0169019105297
+Empire - Palais  :  0.00354493208707
+Noblesse - Principauté  :  nan
+Noblesse - Reine  :  nan
+Noblesse - Palais  :  nan
+Principauté - Reine  :  0.285743228377
+Principauté - Palais  :  0.0870706749494
+Reine - Palais  :  0.109459543268
+----------------------------------------------
+Sultan - Constitution de 1958  :  nan
+----------------------------------------------
+Faux-monnayage - Droit d'auteur  :  nan
+----------------------------------------------
+Droit des brevets - Inventeur  :  0.11016072008
+Droit des brevets - Droit des marques  :  0.987335382194
+Inventeur - Droit des marques  :  0.093344330136
+----------------------------------------------
+Coopérative ouvrière - Société coopérative agricole  :  0.748690152658
+----------------------------------------------
+Groupement d'intérêt économique - Société coopérative de production  :  0.254574997327
+Groupement d'intérêt économique - Entreprise publique  :  0.159852258601
+Société coopérative de production - Entreprise publique  :  0.0566065783006
+----------------------------------------------
+Typographe - Ligature  :  nan
+Typographe - Ponctuation  :  nan
+Ligature - Ponctuation  :  nan
+----------------------------------------------
+Renseignement - Données personnelles  :  0.17130526983
+----------------------------------------------
+Détective privé - Contrebande  :  -0.0889454134264
+----------------------------------------------
+Syndicaliste - Manifestation  :  nan
+Syndicaliste - Syndicat agricole  :  nan
+Manifestation - Syndicat agricole  :  -0.101851877203
+----------------------------------------------
+Accord collectif - Inspection du travail  :  0.259364539715
+Accord collectif - Congé  :  0.342638157832
+Accord collectif - Prud'hommes  :  -0.0434922302288
+Inspection du travail - Congé  :  0.147863144484
+Inspection du travail - Prud'hommes  :  0.0261377960421
+Congé - Prud'hommes  :  0.0516069411209
+----------------------------------------------
+Monopole - Droit de la concurrence  :  0.283570978465
+----------------------------------------------
+Port d'armes - Commerce maritime  :  0.269177986095
+----------------------------------------------
+Convention européenne des droits de l'homme - Cour européenne des droits de l'homme  :  0.777984851192
+----------------------------------------------
+Cour européenne des droits de l'homme - Cour internationale de justice  :  0.603569610109
+Cour européenne des droits de l'homme - ISO  :  0.044329555117
+Cour européenne des droits de l'homme - Internationale  :  0.368167598004
+Cour européenne des droits de l'homme - ISO  :  0.044329555117
+Cour internationale de justice - ISO  :  -0.0371814657554
+Cour internationale de justice - Internationale  :  0.317066554266
+Cour internationale de justice - ISO  :  -0.0371814657554
+ISO - Internationale  :  0.350879207806
+ISO - ISO  :  1.00000003937
+Internationale - ISO  :  0.350879207806
+----------------------------------------------
+Convention internationale en vigueur - Convention européenne des droits de l'homme  :  0.601850367096
+----------------------------------------------
+Marine marchande - Compagnie maritime  :  0.513571101834
+Marine marchande - Affaires maritimes  :  0.259613092958
+Compagnie maritime - Affaires maritimes  :  0.151974564031
+----------------------------------------------
+Monopole - Droit de la concurrence  :  0.283570978465
+----------------------------------------------
+Zonage - Document d'urbanisme  :  0.158839770948
+Zonage - Bâtiment  :  0.180483343548
+Zonage - Copropriété  :  -0.0499835701071
+Document d'urbanisme - Bâtiment  :  0.175478577698
+Document d'urbanisme - Copropriété  :  0.0865766991364
+Bâtiment - Copropriété  :  0.313938537975
+----------------------------------------------
+Prénom - Nom  :  0.300023993137
+Prénom - Procédure civile  :  -0.0509432660017
+Nom - Procédure civile  :  -0.0183036720277
+----------------------------------------------
+Bâtiment - Copropriété  :  0.313938537975
+Bâtiment - Divorce  :  -0.0798957936727
+Bâtiment - Inceste  :  nan
+Bâtiment - Polygamie  :  nan
+Bâtiment - Adoption  :  -0.0133888678
+Bâtiment - Union civile  :  0.170713801512
+Copropriété - Divorce  :  0.0394574548384
+Copropriété - Inceste  :  nan
+Copropriété - Polygamie  :  nan
+Copropriété - Adoption  :  0.150468394823
+Copropriété - Union civile  :  0.0743396204222
+Divorce - Inceste  :  nan
+Divorce - Polygamie  :  nan
+Divorce - Adoption  :  0.293915826347
+Divorce - Union civile  :  0.172892931444
+Inceste - Polygamie  :  nan
+Inceste - Adoption  :  nan
+Inceste - Union civile  :  nan
+Polygamie - Adoption  :  nan
+Polygamie - Union civile  :  nan
+Adoption - Union civile  :  0.0614832015848
+----------------------------------------------
+Copropriété - Propriété industrielle  :  0.33484094025
+----------------------------------------------
+Copropriété - Droit de propriété  :  0.251127354084
+Copropriété - Location  :  0.316444992884
+Copropriété - Droit de la responsabilité  :  0.141206573678
+Copropriété - Droit des contrats  :  0.212471438349
+Droit de propriété - Location  :  0.181248929036
+Droit de propriété - Droit de la responsabilité  :  0.76298067363
+Droit de propriété - Droit des contrats  :  0.663114083462
+Location - Droit de la responsabilité  :  0.0730281376235
+Location - Droit des contrats  :  0.15507212367
+Droit de la responsabilité - Droit des contrats  :  0.594772113016
+----------------------------------------------
+Liberté de la presse - Censure  :  -0.0667678080246
+----------------------------------------------
+Droit d'auteur - Domaine public  :  0.219655644477
+Droit d'auteur - Propriété industrielle  :  0.193305358664
+Droit d'auteur - Coopérative  :  0.0502603617445
+Droit d'auteur - Fondation  :  0.0344108232473
+Domaine public - Propriété industrielle  :  0.299718438552
+Domaine public - Coopérative  :  0.210812449201
+Domaine public - Fondation  :  0.209332127352
+Propriété industrielle - Coopérative  :  0.406120750815
+Propriété industrielle - Fondation  :  0.37281517336
+Coopérative - Fondation  :  0.486335345762
+----------------------------------------------
+Droit des assurances - Mutualité  :  0.156199893829
+Droit des assurances - Retraite  :  0.207768702198
+Droit des assurances - Assurance maladie  :  0.286873399036
+Droit des assurances - Assurance chômage  :  0.352140049232
+Droit des assurances - Compagnie d'assurances  :  0.286430188146
+Mutualité - Retraite  :  0.429519547516
+Mutualité - Assurance maladie  :  0.366527182923
+Mutualité - Assurance chômage  :  0.400407496894
+Mutualité - Compagnie d'assurances  :  0.295524182041
+Retraite - Assurance maladie  :  0.453094643961
+Retraite - Assurance chômage  :  0.504056052763
+Retraite - Compagnie d'assurances  :  0.233600521155
+Assurance maladie - Assurance chômage  :  0.776832495845
+Assurance maladie - Compagnie d'assurances  :  0.458584011045
+Assurance chômage - Compagnie d'assurances  :  0.435412458957
+----------------------------------------------
+Logo - Spécialité pharmaceutique  :  0.451500647985
+----------------------------------------------
+Monopole - Cartel  :  nan
+Monopole - Droit des brevets  :  0.397514470122
+Monopole - Pratique anticoncurrentielle  :  0.351994684537
+Cartel - Droit des brevets  :  nan
+Cartel - Pratique anticoncurrentielle  :  nan
+Droit des brevets - Pratique anticoncurrentielle  :  0.192130364597
+----------------------------------------------
+Plaque d'immatriculation - Signalisation routière  :  0.40793007575
+Plaque d'immatriculation - Stationnement  :  0.399845955994
+Plaque d'immatriculation - Carrefour  :  0.0692001012361
+Signalisation routière - Stationnement  :  0.620818362383
+Signalisation routière - Carrefour  :  0.378241121941
+Stationnement - Carrefour  :  0.434658678645
+----------------------------------------------
+Maladie professionnelle - Sécurité alimentaire  :  0.203791256814
+----------------------------------------------
+Prud'hommes - Grève  :  -0.0554985717085
+Prud'hommes - Organisation patronale  :  0.0633929649066
+Prud'hommes - Syndicat  :  0.0856802559741
+Prud'hommes - Droit syndical  :  0.0997244545705
+Grève - Organisation patronale  :  0.251839506501
+Grève - Syndicat  :  0.0608768442785
+Grève - Droit syndical  :  0.211929206858
+Organisation patronale - Syndicat  :  0.0190949603524
+Organisation patronale - Droit syndical  :  0.0251286240275
+Syndicat - Droit syndical  :  0.199615620167
+----------------------------------------------
+Convention européenne des droits de l'homme - Cour européenne des droits de l'homme  :  0.777984851192
+----------------------------------------------
+Faux-monnayage - Droit d'auteur  :  nan
+----------------------------------------------
+Droit des brevets - Inventeur  :  0.11016072008
+Droit des brevets - Droit des marques  :  0.987335382194
+Inventeur - Droit des marques  :  0.093344330136
+----------------------------------------------
+Chômage - Sécurité sociale  :  0.211669795087
+----------------------------------------------
+Durée du travail - Grève  :  0.399272399896
+Durée du travail - Contrat de travail  :  0.612731281878
+Durée du travail - Hygiène et sécurité  :  0.324211507954
+Durée du travail - Juridiction du travail  :  0.671684268969
+Durée du travail - Droit disciplinaire  :  0.124101693435
+Grève - Contrat de travail  :  0.312443784541
+Grève - Hygiène et sécurité  :  0.278324627431
+Grève - Juridiction du travail  :  0.261588942244
+Grève - Droit disciplinaire  :  0.171799003092
+Contrat de travail - Hygiène et sécurité  :  0.22631027396
+Contrat de travail - Juridiction du travail  :  0.462883115797
+Contrat de travail - Droit disciplinaire  :  0.204855676184
+Hygiène et sécurité - Juridiction du travail  :  0.284870673944
+Hygiène et sécurité - Droit disciplinaire  :  0.0587733193799
+Juridiction du travail - Droit disciplinaire  :  0.129709085352
+----------------------------------------------
+Assurance construction - Accord collectif  :  0.206944746033
+Assurance construction - Inspection du travail  :  0.28270592495
+Assurance construction - Congé  :  0.177749688923
+Assurance construction - Prud'hommes  :  -0.119195168244
+Accord collectif - Inspection du travail  :  0.259364539715
+Accord collectif - Congé  :  0.342638157832
+Accord collectif - Prud'hommes  :  -0.0434922302288
+Inspection du travail - Congé  :  0.147863144484
+Inspection du travail - Prud'hommes  :  0.0261377960421
+Congé - Prud'hommes  :  0.0516069411209
+----------------------------------------------
+Escroquerie - Lettre anonyme  :  0.0410951509005
+Escroquerie - Viol  :  0.596627108778
+Escroquerie - Crime contre l'humanité  :  0.245614420831
+Escroquerie - Corruption  :  0.546179599769
+Escroquerie - Corruption  :  0.546179599769
+Lettre anonyme - Viol  :  0.0152238749869
+Lettre anonyme - Crime contre l'humanité  :  -0.0189052458502
+Lettre anonyme - Corruption  :  -0.00268922107217
+Lettre anonyme - Corruption  :  -0.00268922107217
+Viol - Crime contre l'humanité  :  0.339871667387
+Viol - Corruption  :  0.714840326464
+Viol - Corruption  :  0.714840326464
+Crime contre l'humanité - Corruption  :  0.200244168123
+Crime contre l'humanité - Corruption  :  0.200244168123
+Corruption - Corruption  :  0.999999966428
+----------------------------------------------
+Escroquerie - Lettre anonyme  :  0.0410951509005
+Escroquerie - Fouet  :  nan
+Lettre anonyme - Fouet  :  nan
+----------------------------------------------
+Police municipale - Détective  :  0.0690071957365
+Police municipale - Surveillance  :  0.225384917432
+Police municipale - Maintien de l'ordre  :  -0.0606693914416
+Police municipale - Policier  :  0.122919633254
+Police municipale - Syndicat de police  :  0.479341877569
+Détective - Surveillance  :  0.0662097212661
+Détective - Maintien de l'ordre  :  -0.0131572230246
+Détective - Policier  :  0.10547141401
+Détective - Syndicat de police  :  0.0610046572161
+Surveillance - Maintien de l'ordre  :  0.352644641368
+Surveillance - Policier  :  0.211426255338
+Surveillance - Syndicat de police  :  0.199265236309
+Maintien de l'ordre - Policier  :  0.0214461572008
+Maintien de l'ordre - Syndicat de police  :  0.323930065463
+Policier - Syndicat de police  :  0.107096017263
+----------------------------------------------
+Assassin - Massacre  :  nan
+----------------------------------------------
+Mafieux - Trafic de stupéfiant  :  nan
+Mafieux - Organisation criminelle  :  nan
+Mafieux - Proxénète  :  nan
+Mafieux - Gang  :  nan
+Mafieux - Viol  :  nan
+Mafieux - Inceste  :  nan
+Mafieux - Pédophilie  :  nan
+Trafic de stupéfiant - Organisation criminelle  :  0.0240333830124
+Trafic de stupéfiant - Proxénète  :  nan
+Trafic de stupéfiant - Gang  :  nan
+Trafic de stupéfiant - Viol  :  0.17853326088
+Trafic de stupéfiant - Inceste  :  nan
+Trafic de stupéfiant - Pédophilie  :  nan
+Organisation criminelle - Proxénète  :  nan
+Organisation criminelle - Gang  :  nan
+Organisation criminelle - Viol  :  0.184643474075
+Organisation criminelle - Inceste  :  nan
+Organisation criminelle - Pédophilie  :  nan
+Proxénète - Gang  :  nan
+Proxénète - Viol  :  nan
+Proxénète - Inceste  :  nan
+Proxénète - Pédophilie  :  nan
+Gang - Viol  :  nan
+Gang - Inceste  :  nan
+Gang - Pédophilie  :  nan
+Viol - Inceste  :  nan
+Viol - Pédophilie  :  nan
+Inceste - Pédophilie  :  nan
+----------------------------------------------
+Renseignement - Données personnelles  :  0.17130526983
+----------------------------------------------
+Évasion - Prisonnier  :  0.329938789646
+----------------------------------------------
+Faux-monnayage - Fraude fiscale  :  nan
+Faux-monnayage - Corruption  :  nan
+Faux-monnayage - Paradis fiscal  :  nan
+Fraude fiscale - Corruption  :  0.381289721907
+Fraude fiscale - Paradis fiscal  :  0.115562182463
+Corruption - Paradis fiscal  :  0.0774894328102
+----------------------------------------------
+Maltraitance - Vandalisme  :  0.32663720559
+Maltraitance - Corruption  :  0.385023667249
+Maltraitance - Violence  :  0.336334593231
+Maltraitance - Délit pénal  :  0.229579142961
+Maltraitance - Victime  :  0.0512837123069
+Maltraitance - Gang  :  nan
+Vandalisme - Corruption  :  0.230461130469
+Vandalisme - Violence  :  0.149621483524
+Vandalisme - Délit pénal  :  0.138389519334
+Vandalisme - Victime  :  -0.065873321551
+Vandalisme - Gang  :  nan
+Corruption - Violence  :  0.566516840537
+Corruption - Délit pénal  :  0.401752442287
+Corruption - Victime  :  0.195751864886
+Corruption - Gang  :  nan
+Violence - Délit pénal  :  0.31275969735
+Violence - Victime  :  0.43350295822
+Violence - Gang  :  nan
+Délit pénal - Victime  :  0.108680986253
+Délit pénal - Gang  :  nan
+Victime - Gang  :  nan
+----------------------------------------------
+Fraude fiscale - Escroquerie  :  0.428849365314
+Fraude fiscale - Fraude électorale  :  0.780005989314
+Escroquerie - Fraude électorale  :  0.459083185482
+----------------------------------------------
+Harcèlement moral - Assassin  :  nan
+----------------------------------------------
+Criminologie - Droit pénal  :  nan
+----------------------------------------------
+Détention provisoire - Procureur  :  -0.0795576232282
+Détention provisoire - Extradition  :  0.223997517293
+Détention provisoire - Police  :  0.126549199323
+Détention provisoire - Témoin  :  0.123769193903
+Détention provisoire - Expertise en écritures  :  0.138859029461
+Détention provisoire - Juge d'instruction  :  0.433612035655
+Détention provisoire - Gendarmerie nationale  :  -0.0909816572497
+Procureur - Extradition  :  0.0268482111527
+Procureur - Police  :  0.030615684993
+Procureur - Témoin  :  0.0946207292029
+Procureur - Expertise en écritures  :  0.0419567939635
+Procureur - Juge d'instruction  :  0.225237802174
+Procureur - Gendarmerie nationale  :  0.100556821059
+Extradition - Police  :  0.0104075576348
+Extradition - Témoin  :  0.107284862222
+Extradition - Expertise en écritures  :  0.0489599456891
+Extradition - Juge d'instruction  :  0.164370996115
+Extradition - Gendarmerie nationale  :  0.0946045068749
+Police - Témoin  :  0.100665373252
+Police - Expertise en écritures  :  0.0743729945603
+Police - Juge d'instruction  :  0.122151971955
+Police - Gendarmerie nationale  :  0.252749632112
+Témoin - Expertise en écritures  :  0.13310441732
+Témoin - Juge d'instruction  :  0.253609580308
+Témoin - Gendarmerie nationale  :  -0.149702861212
+Expertise en écritures - Juge d'instruction  :  0.248352552699
+Expertise en écritures - Gendarmerie nationale  :  -0.136855019942
+Juge d'instruction - Gendarmerie nationale  :  -0.0392685237835
+----------------------------------------------
+Évasion - Prisonnier  :  0.329938789646
+Évasion - Fouet  :  nan
+Évasion - Fouet  :  nan
+Prisonnier - Fouet  :  nan
+Prisonnier - Fouet  :  nan
+Fouet - Fouet  :  nan
+----------------------------------------------
+Évasion - Prisonnier  :  0.329938789646
+----------------------------------------------
+Évasion - Prison  :  0.397486019908
+Évasion - Contention  :  nan
+Évasion - Camp de concentration  :  0.215351473565
+Évasion - Hôpital psychiatrique  :  0.30976881812
+Évasion - Centre de détention  :  0.180652126639
+Prison - Contention  :  nan
+Prison - Camp de concentration  :  -0.0184637066762
+Prison - Hôpital psychiatrique  :  0.297678833873
+Prison - Centre de détention  :  0.0756476720193
+Contention - Camp de concentration  :  nan
+Contention - Hôpital psychiatrique  :  nan
+Contention - Centre de détention  :  nan
+Camp de concentration - Hôpital psychiatrique  :  0.0808901052796
+Camp de concentration - Centre de détention  :  0.494519410671
+Hôpital psychiatrique - Centre de détention  :  0.431707397086
+----------------------------------------------
+Liberté de religion - Liberté d'expression  :  0.798783539512
+----------------------------------------------
+Liberté de religion - Libertés publiques  :  0.16462335424
+Liberté de religion - Discrimination  :  0.402116107377
+Liberté de religion - Droit de propriété  :  0.511934614032
+Liberté de religion - Droits de l'homme  :  0.443940996448
+Liberté de religion - Liberté d'opinion  :  0.818686060396
+Libertés publiques - Discrimination  :  0.0983205525381
+Libertés publiques - Droit de propriété  :  0.0501149234042
+Libertés publiques - Droits de l'homme  :  0.288190941893
+Libertés publiques - Liberté d'opinion  :  0.244800565796
+Discrimination - Droit de propriété  :  0.226154267101
+Discrimination - Droits de l'homme  :  0.0982196235478
+Discrimination - Liberté d'opinion  :  0.356407006442
+Droit de propriété - Droits de l'homme  :  0.52237116335
+Droit de propriété - Liberté d'opinion  :  0.32267656321
+Droits de l'homme - Liberté d'opinion  :  0.214418789555
+----------------------------------------------
+Renseignement - Données personnelles  :  0.17130526983
+----------------------------------------------
+Détective privé - Contrebande  :  -0.0889454134264
+Détective privé - Convention européenne des droits de l'homme  :  -0.039444978138
+Détective privé - Droit d'asile  :  0.0207997497782
+Détective privé - Réfugié  :  -0.112667708256
+Détective privé - Contrôle aux frontières  :  0.212878701602
+Contrebande - Convention européenne des droits de l'homme  :  0.0490377845826
+Contrebande - Droit d'asile  :  0.0379588441692
+Contrebande - Réfugié  :  0.0339394770134
+Contrebande - Contrôle aux frontières  :  0.00574490023688
+Convention européenne des droits de l'homme - Droit d'asile  :  0.18774593565
+Convention européenne des droits de l'homme - Réfugié  :  -0.0555686011126
+Convention européenne des droits de l'homme - Contrôle aux frontières  :  0.178468072932
+Droit d'asile - Réfugié  :  0.10982153396
+Droit d'asile - Contrôle aux frontières  :  0.128987174333
+Réfugié - Contrôle aux frontières  :  0.0413066190442
+----------------------------------------------
+Peine de mort - Censure  :  0.122552301314
+Peine de mort - Racisme  :  0.0158655621267
+Peine de mort - Censure  :  0.122552301314
+Censure - Racisme  :  -0.168900827432
+Censure - Censure  :  1.00000002382
+Racisme - Censure  :  -0.168900827432
+----------------------------------------------
+Attentat - Guerre  :  0.219141970338
+Attentat - Guerre civile  :  0.0595118786759
+Attentat - Maintien de l'ordre  :  0.0226254049585
+Attentat - Terrorisme  :  0.166619280548
+Attentat - Insurrection  :  0.328864436431
+Guerre - Guerre civile  :  0.0163185677697
+Guerre - Maintien de l'ordre  :  0.10022401144
+Guerre - Terrorisme  :  0.18036812085
+Guerre - Insurrection  :  0.0874240215781
+Guerre civile - Maintien de l'ordre  :  -0.027328516807
+Guerre civile - Terrorisme  :  0.0261166903529
+Guerre civile - Insurrection  :  0.0194739607883
+Maintien de l'ordre - Terrorisme  :  -0.0763887934228
+Maintien de l'ordre - Insurrection  :  -0.0649943991448
+Terrorisme - Insurrection  :  0.401556148194
+----------------------------------------------
+Laïcité - Liberté de religion  :  0.201014629995
+----------------------------------------------
+Liberté de la presse - Censure  :  -0.0667678080246
+----------------------------------------------
+Génocide - Antisémitisme  :  nan
+Génocide - Antisémitisme  :  nan
+Génocide - Racisme  :  nan
+Antisémitisme - Antisémitisme  :  nan
+Antisémitisme - Racisme  :  nan
+Antisémitisme - Racisme  :  nan
+----------------------------------------------
+Droit des brevets - Inventeur  :  0.11016072008
+Droit des brevets - Droit des marques  :  0.987335382194
+Inventeur - Droit des marques  :  0.093344330136
+----------------------------------------------
+Cour européenne des droits de l'homme - Évasion  :  0.12407021556
+Cour européenne des droits de l'homme - Prison  :  -0.0369686566234
+Cour européenne des droits de l'homme - Contention  :  nan
+Cour européenne des droits de l'homme - Camp de concentration  :  0.482183183439
+Cour européenne des droits de l'homme - Hôpital psychiatrique  :  -0.071126719848
+Cour européenne des droits de l'homme - Centre de détention  :  0.227790560003
+Évasion - Prison  :  0.397486019908
+Évasion - Contention  :  nan
+Évasion - Camp de concentration  :  0.215351473565
+Évasion - Hôpital psychiatrique  :  0.30976881812
+Évasion - Centre de détention  :  0.180652126639
+Prison - Contention  :  nan
+Prison - Camp de concentration  :  -0.0184637066762
+Prison - Hôpital psychiatrique  :  0.297678833873
+Prison - Centre de détention  :  0.0756476720193
+Contention - Camp de concentration  :  nan
+Contention - Hôpital psychiatrique  :  nan
+Contention - Centre de détention  :  nan
+Camp de concentration - Hôpital psychiatrique  :  0.0808901052796
+Camp de concentration - Centre de détention  :  0.494519410671
+Hôpital psychiatrique - Centre de détention  :  0.431707397086
+----------------------------------------------
+Libertés publiques - Droits fondamentaux  :  0.386443697985
+Libertés publiques - Liberté d'opinion  :  0.244800565796
+Droits fondamentaux - Liberté d'opinion  :  0.247810847994
+----------------------------------------------
+Surveillance - Anonymat  :  0.0982469067935
+Surveillance - Données personnelles  :  0.308221978835
+Surveillance - Identifiant  :  0.163645045916
+Surveillance - Secret  :  0.141389927723
+Surveillance - Censure  :  0.00996088096699
+Surveillance - Crime contre l'humanité  :  0.00239037456332
+Anonymat - Données personnelles  :  0.164129198928
+Anonymat - Identifiant  :  0.243016380815
+Anonymat - Secret  :  0.0860615879293
+Anonymat - Censure  :  -0.0296585728614
+Anonymat - Crime contre l'humanité  :  -0.0115988053126
+Données personnelles - Identifiant  :  0.100946609132
+Données personnelles - Secret  :  0.10834399054
+Données personnelles - Censure  :  -0.153283674899
+Données personnelles - Crime contre l'humanité  :  -0.0446280908597
+Identifiant - Secret  :  0.124431054865
+Identifiant - Censure  :  -0.046519331823
+Identifiant - Crime contre l'humanité  :  0.144844988769
+Secret - Censure  :  -0.0776677303415
+Secret - Crime contre l'humanité  :  0.0331831896317
+Censure - Crime contre l'humanité  :  0.103466728861
+----------------------------------------------
+Fraude fiscale - Taxe sur la consommation  :  0.332457873432
+----------------------------------------------
+Droit de la sécurité sociale - Retraite  :  0.26947432448
+----------------------------------------------
+Monopole - Droit de la concurrence  :  0.283570978465
+----------------------------------------------
+Évasion - Prison  :  0.397486019908
+Évasion - Contention  :  nan
+Évasion - Camp de concentration  :  0.215351473565
+Évasion - Hôpital psychiatrique  :  0.30976881812
+Évasion - Centre de détention  :  0.180652126639
+Prison - Contention  :  nan
+Prison - Camp de concentration  :  -0.0184637066762
+Prison - Hôpital psychiatrique  :  0.297678833873
+Prison - Centre de détention  :  0.0756476720193
+Contention - Camp de concentration  :  nan
+Contention - Hôpital psychiatrique  :  nan
+Contention - Centre de détention  :  nan
+Camp de concentration - Hôpital psychiatrique  :  0.0808901052796
+Camp de concentration - Centre de détention  :  0.494519410671
+Hôpital psychiatrique - Centre de détention  :  0.431707397086
+----------------------------------------------
+Liberté de religion - Liberté d'expression  :  0.798783539512
+----------------------------------------------
+Liberté de religion - Libertés publiques  :  0.16462335424
+Liberté de religion - Discrimination  :  0.402116107377
+Liberté de religion - Droit de propriété  :  0.511934614032
+Liberté de religion - Droits de l'homme  :  0.443940996448
+Liberté de religion - Liberté d'opinion  :  0.818686060396
+Libertés publiques - Discrimination  :  0.0983205525381
+Libertés publiques - Droit de propriété  :  0.0501149234042
+Libertés publiques - Droits de l'homme  :  0.288190941893
+Libertés publiques - Liberté d'opinion  :  0.244800565796
+Discrimination - Droit de propriété  :  0.226154267101
+Discrimination - Droits de l'homme  :  0.0982196235478
+Discrimination - Liberté d'opinion  :  0.356407006442
+Droit de propriété - Droits de l'homme  :  0.52237116335
+Droit de propriété - Liberté d'opinion  :  0.32267656321
+Droits de l'homme - Liberté d'opinion  :  0.214418789555
+----------------------------------------------
+Typographe - Ligature  :  nan
+Typographe - Ponctuation  :  nan
+Ligature - Ponctuation  :  nan
+----------------------------------------------
+Sans-abri - Recherche d'emploi  :  nan
+Sans-abri - Assurance chômage  :  nan
+Recherche d'emploi - Assurance chômage  :  0.274996282931
+----------------------------------------------
+Assurance maladie - Droit de la sécurité sociale  :  0.234892372327
+Assurance maladie - Assurance chômage  :  0.776832495845
+Droit de la sécurité sociale - Assurance chômage  :  0.241933177062
+----------------------------------------------
+Maladie professionnelle - Sécurité alimentaire  :  0.203791256814
+----------------------------------------------
+Conseil de prud'hommes - Prud'hommes  :  0.643436598587
+Conseil de prud'hommes - Grève  :  -0.0283562019581
+Conseil de prud'hommes - Organisation patronale  :  0.0395674962447
+Conseil de prud'hommes - Syndicat  :  0.243659605941
+Conseil de prud'hommes - Droit syndical  :  0.173355593824
+Prud'hommes - Grève  :  -0.0554985717085
+Prud'hommes - Organisation patronale  :  0.0633929649066
+Prud'hommes - Syndicat  :  0.0856802559741
+Prud'hommes - Droit syndical  :  0.0997244545705
+Grève - Organisation patronale  :  0.251839506501
+Grève - Syndicat  :  0.0608768442785
+Grève - Droit syndical  :  0.211929206858
+Organisation patronale - Syndicat  :  0.0190949603524
+Organisation patronale - Droit syndical  :  0.0251286240275
+Syndicat - Droit syndical  :  0.199615620167
+----------------------------------------------
+Juridiction pénale - Peine de mort  :  0.208806192686
+Juridiction pénale - Prison  :  0.0197725795847
+Juridiction pénale - Procédure pénale  :  0.534368121692
+Juridiction pénale - Ministère public  :  0.255534968184
+Peine de mort - Prison  :  0.292997295078
+Peine de mort - Procédure pénale  :  0.179072048874
+Peine de mort - Ministère public  :  0.0264633620024
+Prison - Procédure pénale  :  0.0699438055566
+Prison - Ministère public  :  -0.149666648648
+Procédure pénale - Ministère public  :  0.165607968964
+----------------------------------------------
+Droit des contrats - Quasi-contrat  :  0.00922827060919
+----------------------------------------------
+Police judiciaire - Juge d'instruction  :  0.223218069953
+----------------------------------------------
+Assainissement - Document d'urbanisme  :  -0.0930708469258
+----------------------------------------------
+Contentieux administratif - Justice administrative  :  0.358255442802
+----------------------------------------------
+Droit des biens - Droit des successions  :  0.903142222772
+Droit des biens - Droit des personnes  :  0.829838941511
+Droit des biens - Notariat  :  -0.141562318303
+Droit des biens - Droit des assurances  :  0.771051844278
+Droit des biens - Contrat de travail  :  0.183188111405
+Droit des successions - Droit des personnes  :  0.901390358185
+Droit des successions - Notariat  :  -0.125133652248
+Droit des successions - Droit des assurances  :  0.857963351807
+Droit des successions - Contrat de travail  :  0.212931758255
+Droit des personnes - Notariat  :  -0.127083773348
+Droit des personnes - Droit des assurances  :  0.79227141518
+Droit des personnes - Contrat de travail  :  0.218685643499
+Notariat - Droit des assurances  :  -0.0904888226907
+Notariat - Contrat de travail  :  -0.0656332378777
+Droit des assurances - Contrat de travail  :  0.293677067259
+----------------------------------------------
+Accord collectif - Inspection du travail  :  0.259364539715
+Accord collectif - Représentation du personnel  :  0.363391462576
+Accord collectif - Conseil de prud'hommes  :  0.0267527985689
+Accord collectif - Congé  :  0.342638157832
+Accord collectif - Contrat de travail  :  0.383324467508
+Accord collectif - Durée du travail  :  0.2740500605
+Accord collectif - Prud'hommes  :  -0.0434922302288
+Inspection du travail - Représentation du personnel  :  0.555062093396
+Inspection du travail - Conseil de prud'hommes  :  0.134964874276
+Inspection du travail - Congé  :  0.147863144484
+Inspection du travail - Contrat de travail  :  0.644283305787
+Inspection du travail - Durée du travail  :  0.835118571502
+Inspection du travail - Prud'hommes  :  0.0261377960421
+Représentation du personnel - Conseil de prud'hommes  :  0.0783740335486
+Représentation du personnel - Congé  :  0.0803846547032
+Représentation du personnel - Contrat de travail  :  0.287007616587
+Représentation du personnel - Durée du travail  :  0.454146102389
+Représentation du personnel - Prud'hommes  :  -0.0797549237151
+Conseil de prud'hommes - Congé  :  0.0989280679914
+Conseil de prud'hommes - Contrat de travail  :  0.163202757954
+Conseil de prud'hommes - Durée du travail  :  0.0355808592021
+Conseil de prud'hommes - Prud'hommes  :  0.643436598587
+Congé - Contrat de travail  :  0.395804681698
+Congé - Durée du travail  :  0.262827630133
+Congé - Prud'hommes  :  0.0516069411209
+Contrat de travail - Durée du travail  :  0.612731281878
+Contrat de travail - Prud'hommes  :  -0.0251202934966
+Durée du travail - Prud'hommes  :  -0.0174582607448
+----------------------------------------------
+Juridiction pénale - Peine de mort  :  0.208806192686
+Juridiction pénale - Prison  :  0.0197725795847
+Juridiction pénale - Procédure pénale  :  0.534368121692
+Juridiction pénale - Ministère public  :  0.255534968184
+Peine de mort - Prison  :  0.292997295078
+Peine de mort - Procédure pénale  :  0.179072048874
+Peine de mort - Ministère public  :  0.0264633620024
+Prison - Procédure pénale  :  0.0699438055566
+Prison - Ministère public  :  -0.149666648648
+Procédure pénale - Ministère public  :  0.165607968964
+----------------------------------------------
+Peine de mort - Censure  :  0.122552301314
+Peine de mort - Racisme  :  0.0158655621267
+Peine de mort - Accessibilité  :  -0.0911860653558
+Peine de mort - Décret  :  -0.137763180754
+Peine de mort - Référendum  :  nan
+Peine de mort - Décret  :  -0.137763180754
+Censure - Racisme  :  -0.168900827432
+Censure - Accessibilité  :  0.0204997587703
+Censure - Décret  :  -0.122834866716
+Censure - Référendum  :  nan
+Censure - Décret  :  -0.122834866716
+Racisme - Accessibilité  :  0.019415632143
+Racisme - Décret  :  0.0148748665655
+Racisme - Référendum  :  nan
+Racisme - Décret  :  0.0148748665655
+Accessibilité - Décret  :  0.130546402249
+Accessibilité - Référendum  :  nan
+Accessibilité - Décret  :  0.130546402249
+Décret - Référendum  :  nan
+Décret - Décret  :  1.00000001667
+Référendum - Décret  :  nan
+----------------------------------------------
+Mariage - État civil  :  0.163407658506
+Mariage - Droit de la sécurité sociale  :  0.139608967938
+État civil - Droit de la sécurité sociale  :  0.293998716142
+----------------------------------------------
+Contentieux administratif - Droit administratif  :  0.461479877506
+Contentieux administratif - Droit constitutionnel  :  0.180989953822
+Contentieux administratif - Finances publiques  :  0.338166668276
+Droit administratif - Droit constitutionnel  :  0.859946196866
+Droit administratif - Finances publiques  :  0.1352936258
+Droit constitutionnel - Finances publiques  :  0.0361548875092
+----------------------------------------------
+Droit des assurances - Droit civil  :  0.63879201942
+Droit des assurances - Droit du travail  :  0.634614605419
+Droit des assurances - Droit pénal  :  0.682313497175
+Droit des assurances - Procédure civile  :  0.138121668423
+Droit des assurances - Assainissement  :  0.10685272066
+Droit des assurances - Document d'urbanisme  :  0.0497426658981
+Droit civil - Droit du travail  :  0.695225860367
+Droit civil - Droit pénal  :  0.869266675464
+Droit civil - Procédure civile  :  0.410588888738
+Droit civil - Assainissement  :  -0.0757114365418
+Droit civil - Document d'urbanisme  :  0.0605432884938
+Droit du travail - Droit pénal  :  0.733744489358
+Droit du travail - Procédure civile  :  0.171508034958
+Droit du travail - Assainissement  :  0.0131993369651
+Droit du travail - Document d'urbanisme  :  0.0814040340416
+Droit pénal - Procédure civile  :  0.328472775593
+Droit pénal - Assainissement  :  0.0110435438083
+Droit pénal - Document d'urbanisme  :  0.128652915686
+Procédure civile - Assainissement  :  -0.0259730626729
+Procédure civile - Document d'urbanisme  :  -0.0622045109462
+Assainissement - Document d'urbanisme  :  -0.0930708469258
+----------------------------------------------
+Accord collectif - Inspection du travail  :  0.259364539715
+Accord collectif - Représentation du personnel  :  0.363391462576
+Accord collectif - Conseil de prud'hommes  :  0.0267527985689
+Accord collectif - Congé  :  0.342638157832
+Accord collectif - Contrat de travail  :  0.383324467508
+Accord collectif - Durée du travail  :  0.2740500605
+Accord collectif - Prud'hommes  :  -0.0434922302288
+Accord collectif - Droit d'asile  :  0.148065450496
+Accord collectif - Titre de séjour  :  0.068890773463
+Inspection du travail - Représentation du personnel  :  0.555062093396
+Inspection du travail - Conseil de prud'hommes  :  0.134964874276
+Inspection du travail - Congé  :  0.147863144484
+Inspection du travail - Contrat de travail  :  0.644283305787
+Inspection du travail - Durée du travail  :  0.835118571502
+Inspection du travail - Prud'hommes  :  0.0261377960421
+Inspection du travail - Droit d'asile  :  0.0429139609196
+Inspection du travail - Titre de séjour  :  0.238901953856
+Représentation du personnel - Conseil de prud'hommes  :  0.0783740335486
+Représentation du personnel - Congé  :  0.0803846547032
+Représentation du personnel - Contrat de travail  :  0.287007616587
+Représentation du personnel - Durée du travail  :  0.454146102389
+Représentation du personnel - Prud'hommes  :  -0.0797549237151
+Représentation du personnel - Droit d'asile  :  0.0581162512695
+Représentation du personnel - Titre de séjour  :  0.228398947837
+Conseil de prud'hommes - Congé  :  0.0989280679914
+Conseil de prud'hommes - Contrat de travail  :  0.163202757954
+Conseil de prud'hommes - Durée du travail  :  0.0355808592021
+Conseil de prud'hommes - Prud'hommes  :  0.643436598587
+Conseil de prud'hommes - Droit d'asile  :  0.0656901535755
+Conseil de prud'hommes - Titre de séjour  :  0.0927528185218
+Congé - Contrat de travail  :  0.395804681698
+Congé - Durée du travail  :  0.262827630133
+Congé - Prud'hommes  :  0.0516069411209
+Congé - Droit d'asile  :  0.182612972089
+Congé - Titre de séjour  :  0.257687493244
+Contrat de travail - Durée du travail  :  0.612731281878
+Contrat de travail - Prud'hommes  :  -0.0251202934966
+Contrat de travail - Droit d'asile  :  0.193516503264
+Contrat de travail - Titre de séjour  :  0.383748233727
+Durée du travail - Prud'hommes  :  -0.0174582607448
+Durée du travail - Droit d'asile  :  0.0930101938856
+Durée du travail - Titre de séjour  :  0.235427393207
+Prud'hommes - Droit d'asile  :  -0.0246105775592
+Prud'hommes - Titre de séjour  :  -0.147555702551
+Droit d'asile - Titre de séjour  :  0.239023138079
+----------------------------------------------
+Peine de mort - Censure  :  0.122552301314
+Peine de mort - Racisme  :  0.0158655621267
+Peine de mort - Censure  :  0.122552301314
+Censure - Racisme  :  -0.168900827432
+Censure - Censure  :  1.00000002382
+Racisme - Censure  :  -0.168900827432
+----------------------------------------------
+Juge administratif - Juge de l'ordre judiciaire  :  0.725897022677
