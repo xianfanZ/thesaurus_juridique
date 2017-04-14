@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/python3
+# -*- coding: UTF-8 -*- 
 
-from gensim.models import word2vec
-import logging,scipy
+import logging,scipy,gensim.models
 import numpy as np
 
 def avg_feature_vector(words, model, num_features):
@@ -19,14 +19,16 @@ def calcul_similarity(v1,v2):
     return 1 - scipy.spatial.distance.cosine(v1,v2)
 
 # main program
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-sentences = word2vec.Text8Corpus("../Corpus/types/ABUS_DE_CONFIANCE.txt")  # load corpus
-model = word2vec.Word2Vec(sentences, size=200)
+# logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+# sentences = word2vec.Text8Corpus("../Corpus/types/ABUS_DE_CONFIANCE.txt")  # load corpus
+# model = word2vec.Word2Vec(sentences, size=200)
+
+model = gensim.models.Word2Vec.load('../Resultats/wv.model')
 
 # calculer le vecteur moyen d'une liste de mots
-v1 = avg_feature_vector(['tribunal','pénal'],model, num_features=200)
+v1 = avg_feature_vector(['tribunal','pénal'],model, num_features=300)
 # print(v1)
-v2 = avg_feature_vector(['constitution','articles'],model, num_features=200)
+v2 = avg_feature_vector(['constitution','articles'],model, num_features=300)
 
 s = calcul_similarity(v1,v2)
 print(s)
