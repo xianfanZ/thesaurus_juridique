@@ -1,0 +1,47 @@
+import re
+
+termes = []
+with open('../Resultats/thesaurus-nettoye.txt','r') as f:
+	for line in f.readlines():
+		termes.append(line)
+# termes = list(set(termes))
+
+
+jurivoc = []
+with open('../Ressources/jurivoc_fre.txt','r') as f:
+	for line in f.readlines():
+		line = line.strip()
+		#pattern = re.compile('BT')
+		if re.match('BT|NT',line):
+			#print(line)
+			line = re.sub('BT\s+|NT\s+','',line)
+			# print(line)
+			jurivoc.append(' '+line.lower()+' ')
+jurivoc = list(set(jurivoc))
+
+
+with open('../Resultats/corpus_concat.txt','r') as f:
+	text = f.read()
+	# print(text)
+text1 = """
+LA COUR, Par jugement contradictoire en date du 13 mars 2003, le tribunal correctionnel de GAP statuant : - sur l'action publique : a d茅clar茅 Pascal X... coupable d'avoir 脿 GAP (05), entre le 5 ao没t et le 22 d茅cembre 2000, d茅tourn茅, au pr茅judice de la CARPA, des fonds, des valeurs ou un bien, en l'esp猫ce une somme de 628.049,36 francs (six cent vingt huit mille quarante neuf francs trente six centimes), par encaissement sur son compte personnel 脿 la S.M.C., qui lui avait 茅t茅 remise 脿 charge de la rendre ou repr茅senter ou d'en faire un usage d茅termine ; faits pr茅vus et r茅prim茅s par l'article 314-1 du Code p茅nal ; en r茅pression l'a condamn茅 脿 la peine d'un an d'emprisonnement assortie d'un sursis simple et 脿 une peine d'amende de 7 500 euros ; - sur l'action civile : a d茅clar茅 irrecevable le Barreau des Hautes Alpes en sa constitution de partie civile ; a re莽u la CARPA des Hautes Alpes en sa constitution de partie civile ; a d茅clar茅 Pascal X... enti猫rement responsable du pr茅judice moral de la CARPA l'a condamn茅 脿 payer 脿 celle-ci la somme de 1 500 euros 脿 ce titre, a rejet茅 la demande aff茅rente au pr茅judice mat茅riel et condamn茅 M. X... aux d茅pens. 
+""".lower()
+
+
+termes_freq = {}
+sortie = ''
+for t in termes:
+	terme = ' '+t.strip().lower()+''
+	if terme in text:
+		print(terme)
+		sortie += t
+	# l = re.findall(terme,text,re.I)
+	# if len(l) > 0:
+	# 	sortie += t
+	# 	termes_freq.setdefault(terme,len(l))
+
+with open('../Resultats/thesaurus-corpus.txt','w') as f:
+	f.write(sortie)
+
+
+

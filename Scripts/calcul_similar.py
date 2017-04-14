@@ -26,9 +26,9 @@ def calcul_similarity(v1,v2):
 model = gensim.models.Word2Vec.load('../Resultats/wv.model')
 
 # calculer le vecteur moyen d'une liste de mots
-v1 = avg_feature_vector(['tribunal','pénal'],model, num_features=300)
+v1 = avg_feature_vector('Empire'.split(),model, num_features=300)
 # print(v1)
-v2 = avg_feature_vector(['constitution','articles'],model, num_features=300)
+v2 = avg_feature_vector(['démocratie'],model, num_features=300)
 
 s = calcul_similarity(v1,v2)
 print(s)
